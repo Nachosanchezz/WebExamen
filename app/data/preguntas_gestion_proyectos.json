@@ -1,0 +1,1422 @@
+[
+  {
+    "id": "GP001",
+    "pregunta": "Tadas las siguientes son características de un proyecto, EXCEPTO:",
+    "opciones": [
+      "Es temporal",
+      "Tiene un comienzo y final definitivos",
+      "Tiene actividades interrelacionadas",
+      "Se repite cada mes"
+    ],
+    "correcta": 3,
+    "explicacion": "Un proyecto es temporal y único. 'Se repite cada mes' implica que es una operación continua, no un proyecto. Las operaciones son repetitivas; los proyectos son únicos.",
+    "tema": "Marco PMBoK",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP002",
+    "pregunta": "La diferencia entre un proyecto, un programa y un portafolio es que:",
+    "opciones": [
+      "Un proyecto es una tarea temporal con un principio y un final, un programa puede incluir otro trabajo no relacionado y un portafolio incluye todos los proyectos de un departamento",
+      "Un proyecto es una tarea prolongada con un principio y un final, un programa combina dos o más proyectos no relacionados y un portafolio combina dos o más programas",
+      "Un proyecto es una tarea temporal con un principio y un final, un programa es un conjunto de proyectos relacionados entre sí y un portafolio es un grupo de proyectos y programas relacionados con un objetivo estratégico organizacional específico",
+      "Un proyecto es una tarea contratada con principio y final, un portafolio es un grupo de proyectos con fechas indefinidas y un programa combina dos o más portafolios"
+    ],
+    "correcta": 2,
+    "explicacion": "Un proyecto es temporal y único. Un programa agrupa proyectos RELACIONADOS para obtener beneficios coordinados. Un portafolio alinea proyectos y programas con la estrategia organizacional.",
+    "tema": "Marco PMBoK",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP003",
+    "pregunta": "El trabajo operativo se distingue del trabajo de proyecto debido a que el trabajo operativo es:",
+    "opciones": ["Único", "Temporal", "Continuo y repetitivo", "Parte de todas las actividades del proyecto"],
+    "correcta": 2,
+    "explicacion": "El trabajo operativo es continuo y repetitivo, requiere realización repetida de funciones para sostener la organización. El proyecto es temporal y único.",
+    "tema": "Marco PMBoK",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP004",
+    "pregunta": "¿Qué es un programa?",
+    "opciones": [
+      "Una iniciativa empezada por la gerencia",
+      "Un medio por el cual obtener beneficios y control de proyectos relacionados entre sí",
+      "Un grupo de proyectos sin relación entre sí que se dirigen de forma coordinada",
+      "Una regulación gubernamental"
+    ],
+    "correcta": 1,
+    "explicacion": "Un programa agrupa proyectos RELACIONADOS para obtener beneficios coordinados que no se obtendrían gestionándolos por separado. Trampa: la opción C dice 'sin relación entre sí' (incorrecto).",
+    "tema": "Marco PMBoK",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP005",
+    "pregunta": "¿Cuál es la mejor descripción de las principales restricciones en un proyecto?",
+    "opciones": [
+      "Alcance, número de recursos y costo",
+      "Alcance, costo y cronograma",
+      "Alcance, cronograma, costo, calidad, riesgo, recursos y satisfacción del cliente",
+      "Cronograma, costo y cantidad de cambios"
+    ],
+    "correcta": 2,
+    "explicacion": "Aunque clásicamente se hablaba del 'triple constraint' (alcance, tiempo, coste), el PMBoK 6 amplía las restricciones a: alcance, cronograma, coste, calidad, riesgo, recursos y satisfacción del cliente.",
+    "tema": "Marco PMBoK",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP006",
+    "pregunta": "Comprender la cultura, las políticas y los procedimientos de la organización es MÁS DIFÍCIL en:",
+    "opciones": [
+      "Organizaciones globales",
+      "Organizaciones de manufactura",
+      "Organizaciones pequeñas",
+      "Organizaciones ágiles"
+    ],
+    "correcta": 0,
+    "explicacion": "En las organizaciones globales, la cultura, políticas y procedimientos varían entre oficinas internacionales, lo que complica entender el contexto.",
+    "tema": "Entorno organizacional",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP007",
+    "pregunta": "En una organización orientada a proyectos (projectized), el equipo del proyecto:",
+    "opciones": [
+      "Se reporta a muchos gerentes",
+      "No tiene lealtad al proyecto",
+      "Se reporta al gerente funcional",
+      "No siempre tendrá una 'sede' al acabar el proyecto"
+    ],
+    "correcta": 3,
+    "explicacion": "El mayor inconveniente de una organización proyectizada es que cuando el proyecto termina, el equipo no tiene un departamento funcional ('sede') al cual regresar. Tienen que ser reasignados o cambiar de empleo.",
+    "tema": "Estructuras organizacionales",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP008",
+    "pregunta": "Un PM tiene poca autoridad para asignar recursos y los recursos están enfocados en trabajo operativo. ¿En qué tipo de organización está trabajando?",
+    "opciones": ["Funcional", "Matricial", "Expedidor", "Coordinador"],
+    "correcta": 0,
+    "explicacion": "En una organización funcional, el PM tiene la menor autoridad para asignar recursos. Expedidor y Coordinador son roles dentro de una organización matricial débil, no tipos de organización.",
+    "tema": "Estructuras organizacionales",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP009",
+    "pregunta": "En una organización matricial, las comunicaciones suelen ser:",
+    "opciones": ["Simples", "Abiertas y precisas", "Complejas", "Difíciles de automatizar"],
+    "correcta": 2,
+    "explicacion": "En una matricial, el proyecto involucra a personas de distintos departamentos que reportan a múltiples jefes, por lo que las comunicaciones se vuelven más complejas.",
+    "tema": "Estructuras organizacionales",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP010",
+    "pregunta": "En una organización Funcional, ¿quién tiene el poder de dirigir al miembro del equipo?",
+    "opciones": ["El director del proyecto", "El gerente funcional", "El equipo", "La oficina de dirección de proyectos"],
+    "correcta": 1,
+    "explicacion": "En una organización funcional, los miembros del equipo se reportan al gerente funcional. Incluso el PM puede reportar a él.",
+    "tema": "Estructuras organizacionales",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP011",
+    "pregunta": "¿En qué se diferencia un Expedidor de proyectos de un Coordinador de proyectos?",
+    "opciones": [
+      "El expedidor del proyecto no puede tomar decisiones",
+      "El expedidor del proyecto puede tomar más decisiones",
+      "El expedidor del proyecto se reporta a un director de mayor nivel",
+      "El expedidor del proyecto tiene cierta autoridad"
+    ],
+    "correcta": 0,
+    "explicacion": "El coordinador del proyecto tiene autoridad para tomar ciertas decisiones. El expedidor NO tiene autoridad para tomar decisiones. Expedidor < Coordinador.",
+    "tema": "Estructuras organizacionales",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP012",
+    "pregunta": "¿Quién tiene el mayor poder en una organización orientada a proyectos (projectized)?",
+    "opciones": ["El director del proyecto", "El gerente funcional", "El equipo", "Todos comparten el poder"],
+    "correcta": 0,
+    "explicacion": "En una organización proyectizada, toda la empresa está organizada por proyectos, por lo que el PM tiene el mayor poder y autoridad.",
+    "tema": "Estructuras organizacionales",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP013",
+    "pregunta": "Un marco de referencia para mantener la organización enfocada en su estrategia general es:",
+    "opciones": [
+      "Dirección Organizacional de Proyectos (OPM)",
+      "La Guía del PMBoK",
+      "Gobierno del proyecto",
+      "Gestión del portafolio"
+    ],
+    "correcta": 0,
+    "explicacion": "OPM (Organizational Project Management) proporciona el marco para que los proyectos, programas, portafolios y operaciones se ejecuten cumpliendo las metas estratégicas de la organización.",
+    "tema": "Marco PMBoK",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP014",
+    "pregunta": "El PM necesita ayuda con su proyecto y recuerda que hubo un proyecto similar el año pasado. ¿Qué debe hacer?",
+    "opciones": [
+      "Ponerse en contacto con la directora del otro proyecto y pedirle asistencia",
+      "Obtener registros históricos y orientación de parte de la Oficina de Dirección de Proyectos (PMO)",
+      "Esperar para ver si el proyecto es impactado por el crecimiento del alcance",
+      "Asegurarse de que el alcance del proyecto sea acordado por todos los interesados"
+    ],
+    "correcta": 1,
+    "explicacion": "La PMO es la mejor fuente: contiene conocimiento de muchos PMs, información histórica de varios proyectos y asistencia profesional. Pedirle a un PM individual no garantiza recibir asesoría experimentada.",
+    "tema": "PMO",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP015",
+    "pregunta": "Para obtener apoyo para el proyecto en toda la organización, lo mejor es que el PM:",
+    "opciones": [
+      "Se asegure de que haya un plan de gestión de las comunicaciones",
+      "Correlacione la necesidad del proyecto con el plan estratégico de la organización",
+      "Conecte el proyecto con los objetivos personales del patrocinador",
+      "Confirme que el plan de gestión incluye la gestión de los miembros del equipo"
+    ],
+    "correcta": 1,
+    "explicacion": "Alinear el proyecto con la estrategia organizacional es la mejor manera de obtener apoyo. Las otras opciones no abordan directamente la necesidad de soporte organizacional.",
+    "tema": "Marco PMBoK",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP016",
+    "pregunta": "¿Quién debe determinar prioridades entre los proyectos de una compañía?",
+    "opciones": [
+      "El director del proyecto",
+      "El equipo de dirección del proyecto",
+      "La Oficina de Dirección de Proyectos (PMO)",
+      "El equipo del proyecto"
+    ],
+    "correcta": 2,
+    "explicacion": "La determinación de prioridades ENTRE PROYECTOS es responsabilidad de la PMO. El PM se encarga de prioridades DENTRO de su proyecto.",
+    "tema": "PMO",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP017",
+    "pregunta": "Si un PM crea un presupuesto DETALLADO para el proyecto, ¿en qué grupo de procesos se encuentra?",
+    "opciones": ["Iniciación", "Antes del proceso de dirección", "Planificación", "Ejecución"],
+    "correcta": 2,
+    "explicacion": "La palabra clave es 'detallado'. Los presupuestos detallados se establecen durante la planificación del proyecto.",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP018",
+    "pregunta": "¿En qué grupo de procesos se crea el Acta de Constitución del Proyecto?",
+    "opciones": ["Ejecución", "Planificación", "Cierre", "Iniciación"],
+    "correcta": 3,
+    "explicacion": "El Acta de Constitución (Charter) se crea y aprueba en la iniciación. Es necesaria antes de empezar a planificar.",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP019",
+    "pregunta": "El equipo acaba de completar el cronograma inicial y el presupuesto. ¿Qué hacen a continuación?",
+    "opciones": [
+      "Identificar los riesgos",
+      "Comenzar con las iteraciones",
+      "Determinar los requisitos de comunicaciones",
+      "Crear un diagrama de barras (Gantt)"
+    ],
+    "correcta": 2,
+    "explicacion": "Los requisitos de comunicaciones y los estándares de calidad se necesitan ANTES de identificar riesgos (especialmente los relacionados con comunicaciones y calidad). El Gantt se crea en cronograma.",
+    "tema": "Grupos de procesos",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP020",
+    "pregunta": "Un cronograma DETALLADO del proyecto sólo puede crearse después de:",
+    "opciones": [
+      "El presupuesto del proyecto",
+      "La estructura de desglose del trabajo (EDT)",
+      "Plan para la dirección del proyecto",
+      "La evaluación detallada de riesgos"
+    ],
+    "correcta": 1,
+    "explicacion": "La EDT es necesaria ANTES del cronograma. El presupuesto, la evaluación de riesgos y el plan completo se desarrollan después o en paralelo al cronograma.",
+    "tema": "Grupos de procesos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP021",
+    "pregunta": "¿Cuál NO es una entrada al grupo de procesos de iniciación?",
+    "opciones": [
+      "Procesos de la compañía",
+      "Cultura de la compañía",
+      "EDT históricas",
+      "Enunciado del alcance del proyecto"
+    ],
+    "correcta": 3,
+    "explicacion": "El Enunciado del Alcance del Proyecto es OUTPUT de la planificación (proceso Definir el Alcance), no una entrada para iniciación.",
+    "tema": "Grupos de procesos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP022",
+    "pregunta": "El patrocinador acaba de firmar el Acta de Constitución del proyecto. ¿Qué es lo siguiente que hay que hacer?",
+    "opciones": [
+      "Comenzar a completar los paquetes de trabajo",
+      "Validar el alcance",
+      "Comenzar el control integrado de cambios",
+      "Empezar a crear los planes de gestión"
+    ],
+    "correcta": 3,
+    "explicacion": "Después del Charter (iniciación) viene la planificación, donde se crean los planes de gestión. Los paquetes de trabajo (ejecución) y validar/control (M&C) vienen después.",
+    "tema": "Grupos de procesos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP023",
+    "pregunta": "El mejor momento para asignar un director de proyectos a un proyecto es durante:",
+    "opciones": ["Integración", "Selección del proyecto", "Iniciación", "Planificación"],
+    "correcta": 2,
+    "explicacion": "El PM debe ser nombrado lo antes posible durante la iniciación, idealmente cuando se desarrolla el Charter, para que tenga control desde el principio.",
+    "tema": "Rol del PM",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP024",
+    "pregunta": "Si el PM evalúa si una variación amerita una respuesta, ¿en qué grupo de procesos se encuentra?",
+    "opciones": ["Iniciación", "Ejecución", "Monitoreo y control", "Cierre"],
+    "correcta": 2,
+    "explicacion": "Evaluar variaciones del desempeño es parte del Monitoreo y Control. Detectar y analizar desviaciones para decidir si tomar acción correctiva.",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP025",
+    "pregunta": "¿Cuál es una característica de los procesos de dirección de proyectos?",
+    "opciones": ["Iterativo", "Único", "Innecesario", "Estandarizado"],
+    "correcta": 0,
+    "explicacion": "Los procesos son iterativos: conforme avanza el ciclo de vida del proyecto, hay más información disponible, lo que permite refinar y mejorar continuamente.",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP026",
+    "pregunta": "¿Qué grupo de procesos generalmente consume más tiempo y recursos del proyecto?",
+    "opciones": ["Planificación", "Diseño", "Integración", "Ejecución"],
+    "correcta": 3,
+    "explicacion": "La ejecución (realizar el trabajo) es donde se gastan más recursos y tiempo. 'Diseño' y 'integración' no son grupos de procesos.",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP027",
+    "pregunta": "La primera fase del proyecto ha terminado. ¿Qué es lo MÁS IMPORTANTE antes de pasar a la siguiente fase?",
+    "opciones": [
+      "Verificar que los recursos estén disponibles para la siguiente fase",
+      "Revisar el progreso del proyecto en relación a sus líneas base",
+      "Confirmar que la fase haya cumplido sus objetivos y lograr la aceptación formal de sus entregables",
+      "Recomendar acción correctiva para alinear los resultados con las expectativas"
+    ],
+    "correcta": 2,
+    "explicacion": "Una fase debe ser cerrada formalmente con aceptación de entregables antes de pasar a la siguiente. Esto es lo que define un phase gate.",
+    "tema": "Grupos de procesos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP028",
+    "pregunta": "¿Qué grupos de procesos deben estar incluidos en TODOS los proyectos?",
+    "opciones": [
+      "Planificación, ejecución y cierre",
+      "Iniciación, planificación y ejecución",
+      "Planificación, ejecución y monitoreo y control",
+      "Iniciación, planificación, ejecución, monitoreo y control y cierre"
+    ],
+    "correcta": 3,
+    "explicacion": "Los 5 grupos de procesos están en TODOS los proyectos. El PM decide el nivel de atención a cada uno.",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP029",
+    "pregunta": "¿Cuál de las siguientes acciones ocurre en planificación, EXCEPTO:",
+    "opciones": [
+      "Desarrollar el Acta de Constitución del Proyecto",
+      "Crear la EDT",
+      "Estimar los Costes",
+      "Secuenciar las Actividades"
+    ],
+    "correcta": 0,
+    "explicacion": "Desarrollar el Acta de Constitución se hace en INICIACIÓN, no en planificación. Las otras tres opciones son procesos de planificación.",
+    "tema": "Grupos de procesos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP030",
+    "pregunta": "Una demanda de mercado, una necesidad de negocio y una disposición legal son ejemplos de:",
+    "opciones": [
+      "Razones para contratar un PM",
+      "Razones por las que se inician los proyectos",
+      "Razones por las que las personas se convierten en interesados",
+      "Razones para patrocinar un proyecto"
+    ],
+    "correcta": 1,
+    "explicacion": "Estas son las razones típicas por las que se inician proyectos según el PMBoK: demanda, necesidad de negocio, requisito legal, oportunidad estratégica, etc.",
+    "tema": "Marco PMBoK",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP031",
+    "pregunta": "¿Cuál de las siguientes describe MEJOR el rol del PM como integrador?",
+    "opciones": [
+      "Ayudar a los miembros del equipo a familiarizarse con el proyecto",
+      "Unir todas las piezas de un proyecto en un todo cohesivo",
+      "Unir todas las piezas del proyecto en un programa",
+      "Unir a todos los miembros del equipo en un todo cohesivo"
+    ],
+    "correcta": 1,
+    "explicacion": "La integración se refiere a unir las piezas del PROYECTO (procesos, documentos, áreas), NO a las personas. Unir a las personas es desarrollo del equipo.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP032",
+    "pregunta": "El cliente del proyecto le dice al PM que se quedó sin dinero para pagar. ¿Qué debe hacer PRIMERO el PM?",
+    "opciones": [
+      "Trasladar trabajo a más adelante para que el cliente obtenga fondos",
+      "Cerrar el Proyecto o Fase",
+      "Detener el trabajo",
+      "Liberar parte del equipo"
+    ],
+    "correcta": 1,
+    "explicacion": "Todos los proyectos deben cerrarse formalmente. Detener el trabajo o liberar al equipo no resuelve el problema. Hay que iniciar Cerrar el Proyecto o Fase.",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP033",
+    "pregunta": "Un sistema de autorización de trabajo se utiliza para:",
+    "opciones": [
+      "Gestionar quién hace cada actividad",
+      "Gestionar cuándo y en qué orden se realiza el trabajo",
+      "Gestionar cuándo se realiza cada actividad",
+      "Gestionar quién hace cada actividad y cuándo se realiza"
+    ],
+    "correcta": 1,
+    "explicacion": "El sistema de autorización de trabajo gestiona cuándo y en qué orden. Quién lo hace está en la matriz de responsabilidades; cuándo cada actividad concreta está en el cronograma.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP034",
+    "pregunta": "Un proyecto está plagado de cambios solicitados al Acta de Constitución. ¿Quién tiene la responsabilidad PRINCIPAL de decidir si esos cambios son necesarios?",
+    "opciones": ["El director del proyecto", "El equipo del proyecto", "El patrocinador", "Los interesados"],
+    "correcta": 2,
+    "explicacion": "El patrocinador emite el Acta de Constitución y, por tanto, es el responsable principal de controlar cambios al Charter. Cualquier cambio al Charter requiere replantear si continuar con el proyecto.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP035",
+    "pregunta": "¿Cuál describe MEJOR un Plan para la Dirección del Proyecto?",
+    "opciones": [
+      "Una impresión de un software de dirección de proyectos",
+      "Un diagrama de barras",
+      "Planes de gestión de alcance, riesgo, recursos y otros planes de gestión",
+      "El alcance del proyecto"
+    ],
+    "correcta": 2,
+    "explicacion": "El Plan para la Dirección del Proyecto incluye TODOS los planes subsidiarios de gestión (alcance, cronograma, costes, calidad, recursos, riesgos, etc.), no solo un Gantt.",
+    "tema": "Integración",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP036",
+    "pregunta": "¿Quién crea el Acta de Constitución del Proyecto y quién la aprueba?",
+    "opciones": [
+      "El patrocinador la crea y el PM la aprueba",
+      "El equipo del proyecto la crea y la PMO la aprueba",
+      "El gerente ejecutivo la crea y el gerente funcional la aprueba",
+      "El PM la crea y el patrocinador la aprueba"
+    ],
+    "correcta": 3,
+    "explicacion": "El PM crea el Charter, el sponsor lo aprueba y lo autoriza, dándole al PM la autoridad para proceder.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP037",
+    "pregunta": "¿Cuál es el MEJOR método para obtener un plan realista para la dirección del proyecto?",
+    "opciones": [
+      "El patrocinador crea el plan con entradas del PM",
+      "El gerente funcional crea el plan con entradas del PM",
+      "El PM crea el plan con entradas de la gerencia sénior",
+      "El PM crea el plan con entradas del equipo"
+    ],
+    "correcta": 3,
+    "explicacion": "El PM debe crear el Plan, pero requiere entradas del equipo (que conoce el trabajo técnico). Esto garantiza realismo.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP038",
+    "pregunta": "El cliente exige cambios que añadirán 2 semanas a la ruta crítica. ¿Cuál es lo MEJOR que puede hacer el PM?",
+    "opciones": [
+      "Comprimir el cronograma para recuperar las 2 semanas",
+      "Cortar el alcance para recuperar las 2 semanas",
+      "Consultar al patrocinador sobre opciones",
+      "Aconsejar al cliente acerca del impacto del cambio"
+    ],
+    "correcta": 2,
+    "explicacion": "Ante un cambio que impacta la ruta crítica, primero hay que EVALUAR. No se toman acciones (comprimir, cortar) sin aprobación. Y antes de hablar con el cliente, se consulta internamente con el patrocinador.",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP039",
+    "pregunta": "El PM recibe una solicitud de cambio del cliente que no afecta el cronograma y es fácil de completar. ¿Qué debe hacer PRIMERO?",
+    "opciones": [
+      "Hacer que el cambio suceda lo antes posible",
+      "Consultar al patrocinador para aprobación",
+      "Dirigirse al comité de control de cambios",
+      "Evaluar el impacto sobre otras restricciones del proyecto"
+    ],
+    "correcta": 3,
+    "explicacion": "Ante CUALQUIER cambio, primero hay que EVALUAR EL IMPACTO sobre todas las restricciones (alcance, coste, calidad, riesgo, recursos, satisfacción cliente), incluso si parece simple.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP040",
+    "pregunta": "El proyecto A tiene TIR de 21%. El B tiene 7%. El C tiene 31%. El D tiene 19%. ¿Cuál es el mejor proyecto?",
+    "opciones": ["A", "B", "C", "D"],
+    "correcta": 2,
+    "explicacion": "Cuanto mayor la TIR (Tasa Interna de Retorno), mejor el retorno. C (31%) es el mejor.",
+    "tema": "Selección de proyectos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP041",
+    "pregunta": "El balance de doble amortización decreciente es una forma de:",
+    "opciones": ["Depreciación desacelerada", "Depreciación de línea recta", "Depreciación acelerada", "Costeo del ciclo de vida"],
+    "correcta": 2,
+    "explicacion": "El método de doble amortización decreciente es un tipo de depreciación acelerada (más amortización al principio, menos al final).",
+    "tema": "Selección de proyectos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP042",
+    "pregunta": "¿Cuál de las siguientes secuencias representa una depreciación de línea recta?",
+    "opciones": ["$100, $100, $100", "$100, $120, $140", "$100, $120, $160", "$160, $140, $120"],
+    "correcta": 0,
+    "explicacion": "La depreciación de línea recta utiliza la MISMA cantidad cada periodo. Las otras opciones son crecientes o decrecientes.",
+    "tema": "Selección de proyectos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP043",
+    "pregunta": "Te piden preparar un presupuesto para completar un proyecto suspendido durante 6 meses. ¿Qué NO incluirías en el presupuesto?",
+    "opciones": ["Costos fijos", "Costos hundidos", "Costos directos", "Costos variables"],
+    "correcta": 1,
+    "explicacion": "Los costes hundidos son costos ya gastados que NO deben considerarse al decidir si continuar con un proyecto en problemas. Esta es una regla clave del PMBoK.",
+    "tema": "Costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP044",
+    "pregunta": "Una salida del proceso Cerrar el Proyecto o Fase es la creación de:",
+    "opciones": [
+      "Los archivos del proyecto",
+      "Un Acta de Constitución del proyecto",
+      "Un plan para la dirección del proyecto",
+      "Un plan de gestión de los riesgos"
+    ],
+    "correcta": 0,
+    "explicacion": "El Charter se crea en iniciación, los planes en planificación. Los archivos del proyecto (incluidos charter y planes archivados) son output del cierre.",
+    "tema": "Integración",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP045",
+    "pregunta": "Todo lo siguiente sucede durante Cerrar el Proyecto o Fase, EXCEPTO:",
+    "opciones": [
+      "Crear lecciones aprendidas",
+      "Aceptación formal",
+      "Informes de desempeño",
+      "Realizar el análisis costo-beneficio"
+    ],
+    "correcta": 3,
+    "explicacion": "El análisis costo-beneficio se hace ANTES del proyecto (selección/iniciación), no en cierre. Las otras opciones sí son del cierre.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP046",
+    "pregunta": "¿Cuál se incluye en el Acta de Constitución del Proyecto?",
+    "opciones": [
+      "Una estrategia de gestión de riesgos",
+      "Estimados de los paquetes de trabajo",
+      "Estimados detallados de los recursos",
+      "El caso de negocio del proyecto"
+    ],
+    "correcta": 3,
+    "explicacion": "Los estimados detallados y la estrategia de riesgos se crean en planificación. El Charter (iniciación) incluye el caso de negocio.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP047",
+    "pregunta": "¿Cuál describe mejor cómo un Acta de Constitución ayudaría al PM?",
+    "opciones": [
+      "Describe los detalles de lo que debe hacerse",
+      "Enumera los nombres de todos los miembros del equipo",
+      "Le da autoridad al director del proyecto",
+      "Describe la historia de proyectos similares"
+    ],
+    "correcta": 2,
+    "explicacion": "Un beneficio crítico del Charter es que documenta y otorga la AUTORIDAD al PM para gestionar el proyecto.",
+    "tema": "Integración",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP048",
+    "pregunta": "La programación lineal es un ejemplo de qué tipo de criterio de selección de proyectos?",
+    "opciones": ["Optimización por restricciones", "Enfoque comparativo", "Medición de beneficios", "Análisis de impacto"],
+    "correcta": 0,
+    "explicacion": "La programación lineal es un modelo matemático, y la optimización por restricciones usa modelos matemáticos.",
+    "tema": "Selección de proyectos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP049",
+    "pregunta": "¿Cuál de las siguientes definiciones del conocimiento tácito es correcta?",
+    "opciones": [
+      "Es de base fáctica y con facilidad se lo puede comunicar en palabras y símbolos",
+      "Puede requerir contexto o explicación para aportar valor",
+      "Incluye emociones, experiencia y habilidades",
+      "Las lecciones aprendidas son un ejemplo del conocimiento tácito"
+    ],
+    "correcta": 2,
+    "explicacion": "El conocimiento tácito incluye emociones, experiencia y habilidades. Es difícil de comunicar y requiere atmósfera de confianza. Las lecciones aprendidas son conocimiento EXPLÍCITO.",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP050",
+    "pregunta": "El registro de lecciones aprendidas debe actualizarse:",
+    "opciones": [
+      "Al final de cada fase",
+      "A lo largo de todo el proyecto",
+      "Semanalmente",
+      "Al final del proyecto"
+    ],
+    "correcta": 1,
+    "explicacion": "Las lecciones aprendidas son un documento VIVO que se actualiza CONTINUAMENTE para beneficiar al proyecto en curso, a otros proyectos y a la organización.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP051",
+    "pregunta": "¿Cuál es una salida CLAVE del proceso Validar el Alcance?",
+    "opciones": [
+      "Un plan de gestión del alcance más completo",
+      "La aceptación del cliente de los entregables del proyecto",
+      "El análisis de los requisitos",
+      "Confirmación del enunciado del alcance"
+    ],
+    "correcta": 1,
+    "explicacion": "Validar el Alcance es para obtener la ACEPTACIÓN FORMAL del cliente sobre los entregables. Las otras opciones son de planificación.",
+    "tema": "Alcance",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP052",
+    "pregunta": "¿Cuál documento contiene descripciones DETALLADAS de los paquetes de trabajo?",
+    "opciones": [
+      "Diccionario de la EDT",
+      "Lista de actividades",
+      "Enunciado del alcance del proyecto",
+      "Plan de gestión del alcance"
+    ],
+    "correcta": 0,
+    "explicacion": "El Diccionario de la EDT (NO es un diccionario de términos) define cada elemento de la EDT, incluyendo los paquetes de trabajo en detalle.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP053",
+    "pregunta": "¿Durante cuál parte del proceso se crea el Enunciado del Alcance del Proyecto?",
+    "opciones": ["Iniciación", "Planificación", "Ejecución", "Monitoreo y control"],
+    "correcta": 1,
+    "explicacion": "El Enunciado del Alcance es output del proceso Definir el Alcance, que ocurre en planificación.",
+    "tema": "Alcance",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP054",
+    "pregunta": "¿Cuándo debería realizarse el proceso Validar el Alcance?",
+    "opciones": [
+      "Al final del proyecto",
+      "Al inicio del proyecto",
+      "Al final de cada fase del proyecto",
+      "Durante los procesos de planificación"
+    ],
+    "correcta": 2,
+    "explicacion": "Validar el Alcance ocurre durante Monitoreo y Control, al final de cada fase para aprobación de entregables, y en otros puntos para entregables intermedios.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP055",
+    "pregunta": "¿Cuál es el resultado MÁS VALIOSO de crear la EDT?",
+    "opciones": [
+      "Un diagrama de barras",
+      "Aceptación del equipo",
+      "Actividades",
+      "Una lista de riesgos"
+    ],
+    "correcta": 1,
+    "explicacion": "El resultado más valioso es la aceptación del equipo y la comprensión compartida del trabajo, NO el diagrama por sí solo.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP056",
+    "pregunta": "¿Cuál NO describe hasta dónde descomponer el trabajo en la EDT?",
+    "opciones": [
+      "Hasta que tenga una conclusión significativa",
+      "Hasta que lógicamente no se pueda subdividir más",
+      "Hasta que pueda hacerse por una persona",
+      "Hasta que se pueda estimar adecuadamente"
+    ],
+    "correcta": 2,
+    "explicacion": "El nivel más bajo de la EDT es un paquete de trabajo, que puede involucrar a MÁS DE UNA persona. No se descompone hasta el nivel de una persona.",
+    "tema": "Alcance",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP057",
+    "pregunta": "Un PM usa _______ para asegurarse de que los miembros del equipo conozcan qué se incluye en cada paquete de trabajo.",
+    "opciones": [
+      "El enunciado del alcance del proyecto",
+      "El alcance del producto",
+      "El diccionario de la EDT",
+      "El cronograma"
+    ],
+    "correcta": 2,
+    "explicacion": "El Diccionario de la EDT describe los paquetes de trabajo en detalle, indicando qué incluye cada uno. El enunciado del alcance es de alto nivel.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP058",
+    "pregunta": "El objetivo PRINCIPAL de una historia de usuarios (user story) es:",
+    "opciones": [
+      "Documentar las características o funciones requeridas por los interesados",
+      "Crear un registro de los incidentes enfrentados",
+      "Realizar el análisis 'qué pasaría si'",
+      "Controlar el alcance"
+    ],
+    "correcta": 0,
+    "explicacion": "Una historia de usuario sigue el formato 'Como <rol>, deseo <funcionalidad> a fin de <beneficio>' y documenta las características requeridas.",
+    "tema": "Alcance",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP059",
+    "pregunta": "Todos los siguientes son partes de la línea base del alcance, EXCEPTO:",
+    "opciones": [
+      "Plan de gestión del alcance del proyecto",
+      "Enunciado del alcance del proyecto",
+      "Estructura de desglose del trabajo (EDT)",
+      "Diccionario de la EDT"
+    ],
+    "correcta": 0,
+    "explicacion": "La Línea Base del Alcance = Enunciado del Alcance + EDT + Diccionario EDT. El Plan de Gestión del Alcance NO es parte de la línea base (es plan, no línea base).",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP060",
+    "pregunta": "¿Cuál es una salida del proceso Recopilar los Requisitos?",
+    "opciones": [
+      "Matriz de trazabilidad de requisitos",
+      "Enunciado del alcance del proyecto",
+      "Estructura de desglose del trabajo",
+      "Solicitudes de cambios"
+    ],
+    "correcta": 0,
+    "explicacion": "La Matriz de Trazabilidad de Requisitos es output de Recopilar los Requisitos. El Enunciado es de Definir el Alcance, la EDT de Crear la EDT.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP061",
+    "pregunta": "Validar el Alcance está estrechamente relacionado con:",
+    "opciones": [
+      "Controlar la Calidad",
+      "Secuenciar las Actividades",
+      "Gestionar la Calidad",
+      "Gestión del cronograma"
+    ],
+    "correcta": 0,
+    "explicacion": "Controlar la Calidad verifica que sea CORRECTO técnicamente. Validar el Alcance verifica la ACEPTACIÓN del cliente. Suelen ir de la mano.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP062",
+    "pregunta": "¿Cuál describe MEJOR la diferencia entre Controlar el Alcance y Realizar el Control Integrado de Cambios?",
+    "opciones": [
+      "Controlar el Alcance se enfoca en cambios al producto; el Control Integrado en cambios a la integración",
+      "Controlar el Alcance se concentra en controlar el alcance del proyecto; el Control Integrado se concentra en el impacto sobre alcance, tiempo, coste, calidad, riesgo, recursos y satisfacción del cliente",
+      "Controlar el Alcance se enfoca en el alcance del proyecto; el Control Integrado se enfoca en cambios a la integración",
+      "Controlar el Alcance trata cambios al producto; el Control Integrado trata el impacto sobre todas las restricciones"
+    ],
+    "correcta": 1,
+    "explicacion": "Controlar el Alcance solo gestiona el alcance. El Control Integrado evalúa el impacto del cambio sobre TODAS las restricciones del proyecto.",
+    "tema": "Alcance",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP063",
+    "pregunta": "Una directora analiza la secuencia de actividades con la MENOR cantidad de flexibilidad. ¿Qué técnica usa?",
+    "opciones": [
+      "Método de la ruta crítica",
+      "Diagrama de flujo",
+      "Diagramación por precedencia",
+      "Estructura de desglose del trabajo"
+    ],
+    "correcta": 0,
+    "explicacion": "La ruta crítica es la secuencia de actividades con HOLGURA CERO (menor flexibilidad). El PDM es técnica de diagramación, no analiza flexibilidad.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP064",
+    "pregunta": "El diseño de varios entregables DEBE completarse antes de su fabricación. Esto es ejemplo de qué tipo de dependencia?",
+    "opciones": [
+      "Dependencia discrecional",
+      "Dependencia externa",
+      "Dependencia obligatoria",
+      "Dependencia del alcance"
+    ],
+    "correcta": 2,
+    "explicacion": "Las palabras clave son 'DEBE completarse' (obligatoria). No es externa porque no viene de fuera del proyecto. No existe 'dependencia del alcance' como término.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP065",
+    "pregunta": "¿Cuál se ilustra mejor con un diagrama de barras (Gantt) que con un diagrama de red?",
+    "opciones": [
+      "Relaciones lógicas",
+      "Rutas críticas",
+      "Intercambio de recursos",
+      "Avance o estado"
+    ],
+    "correcta": 3,
+    "explicacion": "El Gantt está diseñado para mostrar el PROGRESO en función del TIEMPO. Las relaciones lógicas y rutas críticas se ven mejor en diagramas de red.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP066",
+    "pregunta": "Una heurística se describe MEJOR como:",
+    "opciones": [
+      "Herramienta de control",
+      "Método de elaboración de cronograma",
+      "Herramienta de planificación",
+      "Regla generalmente aceptada"
+    ],
+    "correcta": 3,
+    "explicacion": "Una heurística es una regla generalmente aceptada o 'rule of thumb'. Ejemplo: 100 € por línea de código, 20 €/m² de pintura.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP067",
+    "pregunta": "Retraso (lag) significa:",
+    "opciones": [
+      "La cantidad de tiempo que una actividad se puede atrasar sin retrasar el proyecto",
+      "La cantidad de tiempo que una actividad puede retrasarse sin retrasar el inicio temprano de su sucesora",
+      "Tiempo de espera",
+      "El producto del recorrido hacia adelante y hacia atrás"
+    ],
+    "correcta": 2,
+    "explicacion": "Lag = tiempo de espera entre actividades. Las opciones A y B describen tipos de HOLGURA (slack/float), no lag.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP068",
+    "pregunta": "Para informar el TIEMPO MÁS PROLONGADO PREVISTO del proyecto, ¿qué herramienta usar?",
+    "opciones": ["EDT", "Diagrama de red", "Diagrama de barras", "Acta de constitución"],
+    "correcta": 1,
+    "explicacion": "El diagrama de red muestra las dependencias y permite calcular la ruta crítica, que es la ruta más larga = duración del proyecto.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP069",
+    "pregunta": "¿Cuál opción es correcta sobre la ruta crítica?",
+    "opciones": [
+      "La ruta crítica ayuda a comprobar cuánto tiempo llevará el proyecto",
+      "Solo puede haber una ruta crítica",
+      "El diagrama de red cambiará cada vez que cambie la fecha de finalización",
+      "Un proyecto nunca puede tener holgura negativa"
+    ],
+    "correcta": 0,
+    "explicacion": "La ruta crítica determina la duración del proyecto. Puede haber múltiples rutas críticas. La holgura negativa indica que vas retrasado.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP070",
+    "pregunta": "¿Cuál es la duración de un hito?",
+    "opciones": [
+      "Es más corto que la duración de la actividad más larga",
+      "Es más corto que la actividad que representa",
+      "No tiene duración",
+      "Tiene la misma duración que la actividad que representa"
+    ],
+    "correcta": 2,
+    "explicacion": "Un hito (milestone) representa la completación de actividades o eventos significativos. Los hitos NO tienen duración.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP071",
+    "pregunta": "La desviación estándar te dice:",
+    "opciones": [
+      "Que no hay relación con los riesgos",
+      "Si el estimado es preciso",
+      "Cuán incierto es el estimado",
+      "Si el estimado incluye un relleno"
+    ],
+    "correcta": 2,
+    "explicacion": "La desviación estándar indica la incertidumbre/riesgo del estimado. No hay 'relleno' en buena gestión: lo que hay son reservas calculadas.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP072",
+    "pregunta": "La holgura de una actividad se determina al:",
+    "opciones": [
+      "Realizar el análisis Monte Carlo",
+      "Determinar el tiempo de espera entre actividades",
+      "Determinar el retraso",
+      "Determinar cuánto tiempo se puede atrasar sin retrasar la ruta crítica"
+    ],
+    "correcta": 3,
+    "explicacion": "La holgura (float/slack) es el tiempo que una actividad puede retrasarse sin afectar la ruta crítica del proyecto.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP073",
+    "pregunta": "El proyecto tiene 3 rutas críticas. ¿Cómo afecta esto al proyecto?",
+    "opciones": [
+      "Lo hace más fácil de dirigir",
+      "Incrementa los riesgos del proyecto",
+      "Requiere más personas",
+      "Lo hace más caro"
+    ],
+    "correcta": 1,
+    "explicacion": "Más rutas críticas = más actividades sin holgura = más probabilidad de que algo retrase el proyecto = MÁS RIESGO.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP074",
+    "pregunta": "Si el tiempo y costos no son importantes pero sí el número de recursos utilizados cada mes, ¿qué hacer?",
+    "opciones": [
+      "Análisis Monte Carlo",
+      "Fast-tracking (ejecución rápida)",
+      "Optimización de recursos",
+      "Análisis de costes del ciclo de vida"
+    ],
+    "correcta": 2,
+    "explicacion": "Mantener un número constante de recursos cada mes es lo que hace la NIVELACIÓN/OPTIMIZACIÓN de recursos. Fast-tracking afecta tiempo y coste, no recursos.",
+    "tema": "Cronograma",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP075",
+    "pregunta": "Si el diagrama de red NO PUEDE CAMBIAR pero tienes recursos de personal adicionales, ¿qué es lo mejor para comprimir el cronograma?",
+    "opciones": [
+      "Fast-tracking (ejecución rápida)",
+      "Nivelación de recursos",
+      "Crashing (intensificación)",
+      "Análisis Monte Carlo"
+    ],
+    "correcta": 2,
+    "explicacion": "Como no se puede cambiar el diagrama de red (no podemos paralelizar), fast-tracking queda descartado. Con recursos extra, CRASHING es la respuesta.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP076",
+    "pregunta": "Una sugerencia (con artículo de respaldo) de que la gerencia apruebe el modelo de datos antes de otros elementos es ejemplo de:",
+    "opciones": [
+      "Dependencia obligatoria externa",
+      "Dependencia discrecional externa",
+      "Dependencia normativa externa",
+      "Heurística"
+    ],
+    "correcta": 1,
+    "explicacion": "Es una SUGERENCIA (discrecional) basada en mejores prácticas, y proviene de FUERA del proyecto (publicación externa), por lo tanto: discrecional externa.",
+    "tema": "Cronograma",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP077",
+    "pregunta": "Después de obtener los estimados de duración de las actividades del equipo, ¿qué se necesita para completar Desarrollar el Cronograma?",
+    "opciones": [
+      "Análisis de valor ganado",
+      "Sistema de control de cambios al cronograma",
+      "Análisis de tendencias",
+      "Reservas"
+    ],
+    "correcta": 3,
+    "explicacion": "Las reservas (contingencia, gestión) son parte del proceso Estimar la Duración de las Actividades y se necesitan para Desarrollar el Cronograma. Las otras son de Controlar el Cronograma.",
+    "tema": "Cronograma",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP078",
+    "pregunta": "El nuevo PM quiere ver cómo el anterior planificó gestionar cambios al cronograma. ¿Dónde busca?",
+    "opciones": [
+      "Plan de gestión de las comunicaciones",
+      "Plan de gestión de las actualizaciones",
+      "Plan de gestión del personal",
+      "Plan de gestión del cronograma"
+    ],
+    "correcta": 3,
+    "explicacion": "El Plan de Gestión del Cronograma incluye cómo se gestionarán los cambios al cronograma.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP079",
+    "pregunta": "Un PM usa los estimados de duración del promedio ponderado. ¿Qué tipo de análisis usa?",
+    "opciones": [
+      "Método de la ruta crítica",
+      "Distribución beta (PERT)",
+      "Monte Carlo",
+      "Nivelación de recursos"
+    ],
+    "correcta": 1,
+    "explicacion": "La distribución beta (estimación de 3 valores / PERT) usa promedios ponderados: (Optimista + 4×Probable + Pesimista) / 6.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP080",
+    "pregunta": "Un miembro del equipo de I+D dice que su trabajo es muy creativo para dar un estimado fijo. Deciden usar horas promedio de proyectos previos similares. ¿Es ejemplo de?",
+    "opciones": [
+      "Estimación paramétrica",
+      "Estimación basada en tres valores",
+      "Estimación análoga",
+      "Análisis Monte Carlo"
+    ],
+    "correcta": 0,
+    "explicacion": "Usar TASAS HISTÓRICAS (horas promedio × cantidad) es estimación paramétrica. La análoga usaría la duración total de un proyecto similar.",
+    "tema": "Cronograma",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP081",
+    "pregunta": "Para una actividad nueva nunca antes hecha en la empresa, ¿cuál es el MEJOR método de estimación?",
+    "opciones": [
+      "Estimación análoga",
+      "Estimación basada en tres valores (PERT)",
+      "Análisis Monte Carlo",
+      "Estimación paramétrica"
+    ],
+    "correcta": 1,
+    "explicacion": "Cuando no hay historial previo, la estimación de 3 valores (optimista/probable/pesimista) es la mejor porque trabaja con rangos en lugar de un valor fijo.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP082",
+    "pregunta": "Una actividad tiene ES=3, LS=13, EF=9, LF=19. Esto significa que:",
+    "opciones": [
+      "Está en la ruta crítica",
+      "Tiene un retraso",
+      "Está avanzando bien",
+      "No está en la ruta crítica"
+    ],
+    "correcta": 3,
+    "explicacion": "Tiene holgura (LS - ES = 10 días). Las actividades en la ruta crítica tienen holgura CERO (ES = LS). Esta tiene holgura, así que NO está en la ruta crítica.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP083",
+    "pregunta": "El proyecto se completará 4 días tarde. No tienes recursos adicionales. Las dependencias son preferenciales y el riesgo es bajo. ¿Qué es lo MEJOR?",
+    "opciones": [
+      "Reducir recursos de una actividad",
+      "Hacer más actividades simultáneas",
+      "Mover recursos de dependencias preferenciales a externas",
+      "Quitar una actividad del proyecto"
+    ],
+    "correcta": 1,
+    "explicacion": "Sin recursos extras, no se puede hacer crashing. Pero como las dependencias son DISCRECIONALES (preferenciales) y el riesgo es bajo, podemos hacer actividades en paralelo (fast-tracking).",
+    "tema": "Cronograma",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP084",
+    "pregunta": "La gerencia sénior quiere información RESUMIDA del estado de proyectos. ¿Qué tipo de informe usar?",
+    "opciones": [
+      "Estimados de costos detallados",
+      "Planes para la dirección del proyecto",
+      "Diagramas de barras",
+      "Informes de hitos"
+    ],
+    "correcta": 3,
+    "explicacion": "Los informes de hitos dan el nivel correcto de detalle para alta dirección. Los Gantt son más para el equipo. Los planes y estimados son demasiado detalle.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP085",
+    "pregunta": "Reorganizar los recursos para usar un número constante de recursos cada mes se llama:",
+    "opciones": ["Crashing", "Holgura", "Nivelación", "Fast-tracking"],
+    "correcta": 2,
+    "explicacion": "La nivelación de recursos resuelve conflictos de demanda y suaviza el uso de recursos para mantener un nivel constante. Suele prolongar el cronograma.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP086",
+    "pregunta": "La integración del proyecto es realizada por:",
+    "opciones": [
+      "El director del proyecto",
+      "Equipo",
+      "Patrocinador",
+      "Interesados"
+    ],
+    "correcta": 0,
+    "explicacion": "La integración es una responsabilidad FUNDAMENTAL del PM. Es lo que define en gran medida su rol.",
+    "tema": "Integración",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP087",
+    "pregunta": "Asumiste un proyecto durante la planificación y descubres que 6 personas firmaron el Charter. ¿Qué te preocuparía MÁS?",
+    "opciones": [
+      "Quién será miembro del CCB",
+      "Requisitos en competencia y gestión de la configuración",
+      "Obtener un solo patrocinador",
+      "Determinar la estructura de informes"
+    ],
+    "correcta": 1,
+    "explicacion": "Seis firmantes implica seis áreas/intereses involucrados. Hay que preocuparse por requisitos competentes y gestión de la configuración para asegurar coherencia.",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP088",
+    "pregunta": "Un PM delega Desarrollar el Cronograma, Estimar Costes, Definir Actividades, Estimar Recursos a varios miembros y actúa como árbitro. El resultado probable es:",
+    "opciones": [
+      "Un equipo que funciona a alto nivel con creatividad y compromiso",
+      "Un equipo que se vuelve cohesivo tras inicial confusión",
+      "Un equipo no muy productivo pero unido",
+      "Un equipo con bajo desempeño, baja motivación, alto conflicto y alta rotación"
+    ],
+    "correcta": 3,
+    "explicacion": "El PM debe DIRIGIR e INTEGRAR. Si delega todo, sin integración, los miembros pasan más tiempo en política que ejecutando, resultando en mal desempeño.",
+    "tema": "Rol del PM",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP089",
+    "pregunta": "Recursos prometidos al inicio del proyecto ya no están disponibles. ¿Cuál es la MEJOR solución?",
+    "opciones": [
+      "Mostrar cómo los recursos fueron prometidos originalmente",
+      "Volver a planificar el proyecto sin esos recursos",
+      "Explicar el impacto si los recursos no están disponibles",
+      "Implementar crashing"
+    ],
+    "correcta": 2,
+    "explicacion": "El PM debe ser proactivo y mostrar las consecuencias (impacto) si los recursos no están. Es más efectivo que reclamar 'me los prometiste'.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP090",
+    "pregunta": "Cliente solicita cambio durante prueba de usuario. ¿Cómo resolverlo MEJOR?",
+    "opciones": [
+      "Desarrollar plan de mitigación de riesgos",
+      "Crear una solicitud formal de cambio",
+      "Informar al patrocinador sobre cambios en alcance, coste, cronograma",
+      "Verificar cumplimiento del contrato"
+    ],
+    "correcta": 1,
+    "explicacion": "Lo primero es documentar formalmente el cambio (Change Request) y luego seguir el proceso de control integrado de cambios.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP091",
+    "pregunta": "Te asignan un proyecto a la mitad. El proyecto está en línea base pero el cliente no está contento. ¿Qué hacer PRIMERO?",
+    "opciones": [
+      "Analizarlo con el equipo del proyecto",
+      "Recalcular las líneas base",
+      "Renegociar el contrato",
+      "Reunirte con el cliente"
+    ],
+    "correcta": 3,
+    "explicacion": "Primero necesitas saber POR QUÉ el cliente está descontento. Reunirte con él te da la información para luego decidir acciones con el equipo.",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP092",
+    "pregunta": "Asumes un proyecto de otro PM. Te dice que está a tiempo pero porque comprime el cronograma usando holgura libre. ¿Qué deberías hacer PRIMERO?",
+    "opciones": [
+      "Revisar el estado del riesgo",
+      "Revisar el desempeño de costos",
+      "Determinar una estrategia de gestión",
+      "Informar tus objetivos al equipo"
+    ],
+    "correcta": 2,
+    "explicacion": "Antes de hacer otra cosa, necesitas saber qué vas a hacer TÚ. Determinar la estrategia de gestión proporciona el marco para todas las demás actividades.",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP093",
+    "pregunta": "Un miembro del equipo informa que añadió funcionalidad sin afectar cronograma, coste o calidad. ¿Qué hacer PRIMERO?",
+    "opciones": [
+      "Preguntar cómo determinó la necesidad de la funcionalidad",
+      "Realizar reunión para revisar el trabajo",
+      "Buscar otra funcionalidad agregada",
+      "Preguntar cómo sabe que no hay impacto sobre cronograma, costes o calidad"
+    ],
+    "correcta": 3,
+    "explicacion": "El cambio ya se hizo. Primero hay que averiguar qué análisis se hizo para evaluar el impacto, luego iniciar el control integrado de cambios.",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP094",
+    "pregunta": "El comité de control de cambios revisa una solicitud para añadir trabajo nuevo a tu proyecto. El trabajo NO encaja en el Charter actual. ¿Qué es lo MEJOR?",
+    "opciones": [
+      "Desarrollar un Acta de Constitución del proyecto (nuevo)",
+      "Volver a estimar el cronograma con entradas de Ingeniería",
+      "Validar el alcance del nuevo trabajo con stakeholders",
+      "Identificar los cambios específicos al trabajo existente"
+    ],
+    "correcta": 0,
+    "explicacion": "Como el trabajo nuevo no encaja en el Charter actual, lo mejor es crear un PROYECTO SEPARADO (con su propio Charter).",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "GP095",
+    "pregunta": "El BCR (Benefit-Cost Ratio) de un proyecto es 1,5. ¿Qué significa?",
+    "opciones": [
+      "El proyecto no es rentable",
+      "Por cada euro invertido se obtienen 1,5 euros de beneficio",
+      "El proyecto está en punto de equilibrio",
+      "Hay que añadir más coste al proyecto"
+    ],
+    "correcta": 1,
+    "explicacion": "BCR > 1 significa rentable. Un BCR de 1,5 indica que los beneficios son 1,5 veces los costes.",
+    "tema": "Selección de proyectos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP096",
+    "pregunta": "Si calculas que el NPV (VAN) de un proyecto es -10.000 €, ¿qué decisión tomar?",
+    "opciones": [
+      "Aceptar el proyecto, los beneficios superan los costes",
+      "Rechazar el proyecto, los costes superan los beneficios actualizados",
+      "El proyecto está en break-even",
+      "Necesitas calcular la TIR para decidir"
+    ],
+    "correcta": 1,
+    "explicacion": "NPV negativo significa que el valor presente de los flujos es menor que la inversión. El proyecto destruye valor.",
+    "tema": "Selección de proyectos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP097",
+    "pregunta": "Dos proyectos: A con payback de 2 años, B con payback de 4 años. Si solo se mira el payback, ¿cuál es mejor?",
+    "opciones": ["A", "B", "Da igual", "Necesitas más información"],
+    "correcta": 0,
+    "explicacion": "Cuanto MENOR el payback, mejor (se recupera la inversión más rápido). A es mejor desde la perspectiva del payback.",
+    "tema": "Selección de proyectos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP098",
+    "pregunta": "El PMO de un tipo Directive:",
+    "opciones": [
+      "Solo recomienda buenas prácticas",
+      "Exige cumplimiento de metodologías pero no gestiona los proyectos",
+      "Gestiona directamente los proyectos y los PMs reportan a la PMO",
+      "Es una entidad externa a la organización"
+    ],
+    "correcta": 2,
+    "explicacion": "Los 3 tipos: Supportive (recomienda), Controlling (exige cumplimiento), Directive (gestiona directamente, los PMs le reportan).",
+    "tema": "PMO",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP099",
+    "pregunta": "Un EEF (Enterprise Environmental Factor) EXTERNO sería:",
+    "opciones": [
+      "Estructura organizacional",
+      "Disponibilidad de recursos",
+      "Condiciones de mercado",
+      "Software de IT corporativo"
+    ],
+    "correcta": 2,
+    "explicacion": "Condiciones de mercado es externo (no controlado por la organización). Estructura, recursos y software corporativo son internos.",
+    "tema": "Entorno organizacional",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP100",
+    "pregunta": "Las plantillas de proyectos pasados son ejemplo de:",
+    "opciones": [
+      "EEF (Enterprise Environmental Factors)",
+      "OPA (Organizational Process Assets) - Procesos estándar",
+      "OPA (Organizational Process Assets) - Repositorios de conocimiento",
+      "WBS"
+    ],
+    "correcta": 2,
+    "explicacion": "Las plantillas de proyectos pasados son OPA categoría 2 (repositorios de conocimiento). Los procesos estándar son OPA categoría 1.",
+    "tema": "Entorno organizacional",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP101",
+    "pregunta": "Una entidad externa al proyecto debe entregar un componente clave. Esta dependencia es:",
+    "opciones": [
+      "Obligatoria interna",
+      "Discrecional interna",
+      "Obligatoria externa",
+      "Discrecional externa"
+    ],
+    "correcta": 2,
+    "explicacion": "Es OBLIGATORIA (no podemos avanzar sin ese componente) y EXTERNA (la entidad está fuera del proyecto).",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP102",
+    "pregunta": "PERT estima la duración usando la fórmula:",
+    "opciones": [
+      "(O + P) / 2",
+      "(O + M + P) / 3",
+      "(O + 4M + P) / 6",
+      "M × 1.2"
+    ],
+    "correcta": 2,
+    "explicacion": "PERT (Beta distribution): tiempo esperado = (Optimista + 4 × Más Probable + Pesimista) / 6. Da mayor peso al valor más probable.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP103",
+    "pregunta": "Estimas: Optimista=10, Más Probable=15, Pesimista=20. ¿Cuál es la duración esperada usando PERT?",
+    "opciones": ["12", "15", "16,67", "18"],
+    "correcta": 1,
+    "explicacion": "(10 + 4×15 + 20) / 6 = (10 + 60 + 20) / 6 = 90/6 = 15.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "GP104",
+    "pregunta": "Calcula la desviación estándar usando PERT: Optimista=10, Pesimista=22.",
+    "opciones": ["1", "2", "3", "6"],
+    "correcta": 1,
+    "explicacion": "σ = (P - O) / 6 = (22 - 10) / 6 = 12/6 = 2.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP105",
+    "pregunta": "¿En qué tipo de ciclo de vida el alcance detallado se define ANTES de cada iteración?",
+    "opciones": ["Predictivo (Waterfall)", "Iterativo", "Adaptativo (Agile)", "Híbrido"],
+    "correcta": 2,
+    "explicacion": "En el ciclo adaptativo (Agile), cada sprint comienza definiendo el alcance detallado de esa iteración. En predictivo el alcance se define todo al principio.",
+    "tema": "Ciclos de vida",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP106",
+    "pregunta": "¿Cuándo es mayor la influencia de los stakeholders en el proyecto?",
+    "opciones": [
+      "Al principio del proyecto",
+      "En la ejecución",
+      "Al final del proyecto",
+      "Es constante a lo largo del proyecto"
+    ],
+    "correcta": 0,
+    "explicacion": "La influencia de stakeholders y el riesgo son máximos al inicio del proyecto y decrecen con el tiempo. El coste del cambio es bajo al inicio y alto al final.",
+    "tema": "Ciclos de vida",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP107",
+    "pregunta": "Si necesitas comprimir el cronograma y tienes recursos disponibles pero el riesgo de re-trabajo es alto, ¿qué técnica usar?",
+    "opciones": [
+      "Fast-tracking",
+      "Crashing",
+      "Nivelación de recursos",
+      "Monte Carlo"
+    ],
+    "correcta": 1,
+    "explicacion": "Crashing añade recursos (aumenta coste) pero NO aumenta el riesgo. Fast-tracking paraleliza actividades, lo que SÍ aumenta el riesgo de re-trabajo.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP108",
+    "pregunta": "¿Cuál es la diferencia clave entre Work Performance Data y Work Performance Information?",
+    "opciones": [
+      "Son lo mismo",
+      "Data son mediciones crudas, Information son datos analizados",
+      "Information es más detallado que Data",
+      "Data es del cierre, Information de la ejecución"
+    ],
+    "correcta": 1,
+    "explicacion": "Data = mediciones crudas (Tarea A tomó 4 días). Information = datos analizados/interpretados (Tarea A está adelantada respecto al plan). Reports = presentación a la audiencia.",
+    "tema": "Grupos de procesos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP109",
+    "pregunta": "El PM solicita análisis de costo-beneficio. ¿En qué momento del proyecto debe hacerlo?",
+    "opciones": [
+      "Durante el cierre del proyecto",
+      "Durante la planificación",
+      "Antes del proyecto (selección/iniciación)",
+      "Durante la ejecución cuando hay desviaciones"
+    ],
+    "correcta": 2,
+    "explicacion": "El análisis costo-beneficio se hace ANTES del proyecto para ayudar en la selección y justificación. Si se hace después, ya es tarde.",
+    "tema": "Selección de proyectos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "GP110",
+    "pregunta": "¿Cuál es la principal razón para usar una EDT (WBS)?",
+    "opciones": [
+      "Evitar que se omita trabajo",
+      "Solo es necesaria en proyectos grandes",
+      "Es óptima cuando el trabajo implica contratos",
+      "Es la única manera de identificar riesgos"
+    ],
+    "correcta": 0,
+    "explicacion": "La razón PRINCIPAL para usar EDT es prevenir que se olvide trabajo. Se usa en proyectos de todos los tamaños, ayuda a identificar riesgos pero no es la única forma.",
+    "tema": "Alcance",
+    "dificultad": "facil"
+  }
+]

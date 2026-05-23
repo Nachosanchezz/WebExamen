@@ -1,0 +1,762 @@
+[
+  {
+    "id": "MX001",
+    "pregunta": "Los COSTES HUNDIDOS (sunk costs) NUNCA deben influir en decisiones futuras. Esto se aplica en:",
+    "opciones": [
+      "Solo en finanzas",
+      "Solo en gestión de proyectos (PMBoK)",
+      "Tanto en finanzas como en gestión de proyectos",
+      "Solo cuando son superiores a 100.000 €"
+    ],
+    "correcta": 2,
+    "explicacion": "Es un principio universal: las decisiones futuras deben basarse en costes y beneficios futuros relevantes, no en gastos ya incurridos. Aparece tanto en el PMBoK como en finanzas.",
+    "tema": "Mixto",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX002",
+    "pregunta": "El acta de constitución incluye típicamente el caso de NEGOCIO. Este caso de negocio se sustenta en:",
+    "opciones": [
+      "Solo el alcance del proyecto",
+      "Indicadores financieros como BCR, NPV, TIR, Payback",
+      "El cronograma",
+      "Los procesos de calidad"
+    ],
+    "correcta": 1,
+    "explicacion": "El caso de negocio incluye justificación financiera. Por eso el PM debe entender BCR, NPV, TIR y Payback para evaluar viabilidad económica del proyecto.",
+    "tema": "Mixto",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX003",
+    "pregunta": "El proyecto A tiene NPV = 50.000 €, B tiene NPV = 70.000 €, C tiene NPV = 20.000 €. ¿Cuál seleccionar?",
+    "opciones": ["A", "B", "C", "Da igual"],
+    "correcta": 1,
+    "explicacion": "Se elige el de MAYOR NPV (Valor Actual Neto). B con 70.000 € es el mejor proyecto en términos de valor presente.",
+    "tema": "Selección de proyectos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX004",
+    "pregunta": "Una empresa con EBITDA positivo pero Beneficio neto negativo:",
+    "opciones": [
+      "Es operativamente rentable pero los intereses, amortizaciones o impuestos la hacen perder",
+      "Tiene un error en su contabilidad",
+      "Está en quiebra técnica",
+      "No paga IVA"
+    ],
+    "correcta": 0,
+    "explicacion": "EBITDA positivo = operación funciona. Bº neto negativo = financiación, amortizaciones o impuestos hacen perder. Útil para diagnosticar si la causa es operativa o estructural.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX005",
+    "pregunta": "Un proyecto tiene un BCR (Benefit-Cost Ratio) de 0,85. ¿Qué significa?",
+    "opciones": [
+      "Es rentable",
+      "NO es rentable, los costes superan los beneficios",
+      "Es marginalmente rentable",
+      "Está en punto de equilibrio"
+    ],
+    "correcta": 1,
+    "explicacion": "BCR < 1 = no rentable. Los beneficios son menores que los costes. BCR = 1 → break-even. BCR > 1 → rentable.",
+    "tema": "Selección de proyectos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX006",
+    "pregunta": "Si te ofrecen un pedido especial por debajo del precio normal, lo aceptas si:",
+    "opciones": [
+      "El precio cubre todos los costes (fijos + variables)",
+      "El precio supera el coste variable unitario (genera margen de contribución positivo)",
+      "El cliente lo pide insistentemente",
+      "El producto está caducando"
+    ],
+    "correcta": 1,
+    "explicacion": "Si tienes capacidad disponible, aceptar precios > coste variable es rentable porque cubre fijos ya comprometidos. Es el principio del margen de contribución para decisiones.",
+    "tema": "Costes para decisiones",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX007",
+    "pregunta": "Una característica TEMPORAL y ÚNICA describe:",
+    "opciones": ["Un proyecto", "Una operación", "Un programa", "Una rutina"],
+    "correcta": 0,
+    "explicacion": "Proyecto = temporal (con inicio y fin) + único (resultado específico). Las operaciones son continuas y repetitivas.",
+    "tema": "Marco PMBoK",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX008",
+    "pregunta": "En una organización proyectizada, al acabar el proyecto, los miembros del equipo:",
+    "opciones": [
+      "Reciben automáticamente un ascenso",
+      "No siempre tienen una 'sede' funcional al cual regresar",
+      "Cobran un bono extra",
+      "Se quedan en el departamento de RRHH"
+    ],
+    "correcta": 1,
+    "explicacion": "En la organización projectized, al disolverse el proyecto, el equipo no tiene departamento funcional 'casa'. Tienen que ir a otro proyecto o salir.",
+    "tema": "Estructuras organizacionales",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX009",
+    "pregunta": "Para reducir el cronograma con más recursos disponibles, usas:",
+    "opciones": ["Fast-tracking", "Crashing", "Nivelación", "Monte Carlo"],
+    "correcta": 1,
+    "explicacion": "Crashing añade recursos (aumenta coste) para acortar la ruta crítica. Fast-tracking paraleliza actividades (aumenta riesgo).",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX010",
+    "pregunta": "Has invertido 200.000 € en desarrollar un producto. Ahora estimas que necesitarás otros 100.000 € para acabarlo, pero el mercado ha cambiado y solo recuperarías 80.000 €. ¿Qué decides?",
+    "opciones": [
+      "Continuar para recuperar los 200.000 € ya invertidos",
+      "Parar (los 200.000 son coste hundido; gastar 100.000 más para recuperar solo 80.000 es absurdo)",
+      "Pedir financiación adicional",
+      "Aumentar el precio del producto"
+    ],
+    "correcta": 1,
+    "explicacion": "Los 200.000 € son COSTE HUNDIDO. Solo importa el futuro: 100 invertir vs 80 recuperar = pérdida adicional de 20. Mejor parar.",
+    "tema": "Costes para decisiones",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX011",
+    "pregunta": "Margen Bruto = 280.000 €, Costes Fijos = 180.000 €. ¿Cuál es el EBITDA?",
+    "opciones": ["100.000 €", "180.000 €", "280.000 €", "460.000 €"],
+    "correcta": 0,
+    "explicacion": "EBITDA = Margen Bruto - Costes Fijos = 280.000 - 180.000 = 100.000 €.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX012",
+    "pregunta": "¿Cuál de las siguientes NO es un grupo de procesos del PMBoK?",
+    "opciones": ["Iniciación", "Planificación", "Diseño", "Cierre"],
+    "correcta": 2,
+    "explicacion": "Los 5 grupos son: Iniciación, Planificación, Ejecución, Monitoreo y Control, Cierre. 'Diseño' no es grupo de procesos PMBoK.",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX013",
+    "pregunta": "Costes fijos: 50.000 €. Precio venta: 100 €. Coste variable unitario: 60 €. ¿Cuántas unidades necesitas para no perder dinero (break-even)?",
+    "opciones": ["500 uds", "833 uds", "1.250 uds", "5.000 uds"],
+    "correcta": 2,
+    "explicacion": "Q* = CF / (P - CVu) = 50.000 / (100 - 60) = 50.000 / 40 = 1.250 unidades.",
+    "tema": "Punto de equilibrio",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX014",
+    "pregunta": "Después del Acta de Constitución firmada, ¿qué hacer A CONTINUACIÓN?",
+    "opciones": [
+      "Comenzar a completar paquetes de trabajo",
+      "Validar el alcance",
+      "Empezar a crear los planes de gestión",
+      "Cerrar el proyecto"
+    ],
+    "correcta": 2,
+    "explicacion": "Tras la iniciación (Charter firmado), viene la planificación, donde se crean los planes de gestión (alcance, cronograma, costes, riesgos, etc.).",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX015",
+    "pregunta": "¿Cuál es la diferencia entre coste DIRECTO y coste INDIRECTO?",
+    "opciones": [
+      "Directo es fijo, indirecto es variable",
+      "Directo se asigna directamente a un producto/proyecto; indirecto necesita criterio de reparto",
+      "Directo es de pago al contado, indirecto es a crédito",
+      "Son lo mismo"
+    ],
+    "correcta": 1,
+    "explicacion": "Directo = trazable a un objeto de coste sin reparto (materia prima en un producto). Indirecto = necesita reparto (administración corporativa).",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX016",
+    "pregunta": "El proceso 'Validar el Alcance' tiene como output principal:",
+    "opciones": [
+      "El Acta de Constitución",
+      "Entregables aceptados por el cliente",
+      "La EDT",
+      "El cronograma"
+    ],
+    "correcta": 1,
+    "explicacion": "Validar el Alcance se hace en Monitoreo y Control y su output clave es la ACEPTACIÓN FORMAL del cliente de los entregables.",
+    "tema": "Alcance",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX017",
+    "pregunta": "TAM, SAM, SOM se ordenan de MAYOR a MENOR como:",
+    "opciones": [
+      "SOM > SAM > TAM",
+      "SAM > TAM > SOM",
+      "TAM > SAM > SOM",
+      "TAM > SOM > SAM"
+    ],
+    "correcta": 2,
+    "explicacion": "TAM (total teórico) > SAM (al que puedes acceder) > SOM (lo que realmente capturas). El SOM es lo que se presupuesta.",
+    "tema": "Modelo de ventas",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX018",
+    "pregunta": "La línea base del ALCANCE incluye:",
+    "opciones": [
+      "Solo la EDT",
+      "Plan + EDT + Diccionario",
+      "Enunciado del Alcance + EDT + Diccionario de la EDT",
+      "Charter + Plan"
+    ],
+    "correcta": 2,
+    "explicacion": "Línea base del alcance = Enunciado del Alcance + EDT + Diccionario de la EDT. El Plan de Gestión del Alcance NO es parte de la línea base.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX019",
+    "pregunta": "Para acortar el cronograma sin aumentar coste pero aceptando mayor riesgo, se usa:",
+    "opciones": ["Crashing", "Fast-tracking", "Nivelación", "Monte Carlo"],
+    "correcta": 1,
+    "explicacion": "Fast-tracking = paralelizar actividades secuenciales. NO aumenta coste directamente pero SÍ riesgo (posible re-trabajo).",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX020",
+    "pregunta": "Un proyecto debe completarse antes de lo previsto. Hay presupuesto, no recursos extra disponibles. Las dependencias son DISCRECIONALES y el riesgo es bajo. ¿Qué hacer?",
+    "opciones": [
+      "Crashing (añadir recursos)",
+      "Fast-tracking (paralelizar)",
+      "Reducir alcance",
+      "Reportar a la gerencia que no es posible"
+    ],
+    "correcta": 1,
+    "explicacion": "Sin recursos extras, no se puede hacer crashing. Como las dependencias son discrecionales (no obligatorias) y el riesgo es bajo, se pueden paralelizar = fast-tracking.",
+    "tema": "Cronograma",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "MX021",
+    "pregunta": "¿Cuál de los siguientes NO es un beneficio del presupuesto?",
+    "opciones": [
+      "Detectar problemas de liquidez antes que se conviertan en crisis",
+      "Tomar decisiones con datos",
+      "Garantizar el éxito empresarial",
+      "Anticipar necesidades de financiación"
+    ],
+    "correcta": 2,
+    "explicacion": "Un presupuesto NO garantiza el éxito (es una hipótesis). Ayuda a anticipar problemas y tomar mejores decisiones, pero la ejecución y el mercado siguen mandando.",
+    "tema": "Presupuesto",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX022",
+    "pregunta": "El conocimiento TÁCITO incluye:",
+    "opciones": [
+      "Solo datos numéricos",
+      "Emociones, experiencia y habilidades",
+      "Manuales y documentos",
+      "Reportes formales"
+    ],
+    "correcta": 1,
+    "explicacion": "Conocimiento tácito = experiencias, intuiciones, emociones (difícil de codificar). El conocimiento explícito es lo escrito (manuales, lecciones aprendidas).",
+    "tema": "Gestión del conocimiento",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX023",
+    "pregunta": "Una empresa tiene NPV negativo y TIR menor que el coste de capital. La recomendación es:",
+    "opciones": [
+      "Aceptar el proyecto",
+      "Rechazar el proyecto",
+      "Pedir más información",
+      "Esperar 1 año"
+    ],
+    "correcta": 1,
+    "explicacion": "NPV negativo = destruye valor. TIR < coste de capital = la rentabilidad esperada no compensa el capital invertido. Rechazar.",
+    "tema": "Selección de proyectos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX024",
+    "pregunta": "Si un PM identifica una variación importante en el cronograma del proyecto, está en el grupo de procesos:",
+    "opciones": ["Iniciación", "Planificación", "Ejecución", "Monitoreo y Control"],
+    "correcta": 3,
+    "explicacion": "Detectar y evaluar variaciones del desempeño es Monitoreo y Control. Acto seguido se recomendaría acción correctiva (también M&C).",
+    "tema": "Grupos de procesos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX025",
+    "pregunta": "El método de asignación de costes que asigna costes según el uso de actividades por parte del producto es:",
+    "opciones": ["Full Costing", "Direct Costing", "ABC (Activity-Based Costing)", "Margen de contribución"],
+    "correcta": 2,
+    "explicacion": "ABC asigna costes según las ACTIVIDADES consumidas. Usa cost drivers como nº pedidos, horas soporte, etc. Mayor precisión que Full Costing.",
+    "tema": "Métodos de asignación de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX026",
+    "pregunta": "Si el cliente notifica al PM que QUIERE HACER UN CAMBIO IMPORTANTE en el alcance al final del proyecto, ¿qué hacer PRIMERO?",
+    "opciones": [
+      "Reunirse con el equipo para decidir si es posible",
+      "Explicar al cliente que no puede hacerse en este momento",
+      "Informar a la gerencia",
+      "Comprender la naturaleza del cambio y evaluar el impacto"
+    ],
+    "correcta": 3,
+    "explicacion": "Ante un cambio, PRIMERO entender qué cambio y evaluar el impacto. No saltar a conclusiones (decir no, informar, reunirse) sin información.",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX027",
+    "pregunta": "El BENEFICIO BRUTO % se calcula como:",
+    "opciones": [
+      "Margen Bruto / Ventas × 100",
+      "Costes / Ventas × 100",
+      "Beneficio neto / Inversión × 100",
+      "EBITDA / Activos × 100"
+    ],
+    "correcta": 0,
+    "explicacion": "Margen Bruto % = Margen Bruto / Ventas × 100. Mide qué porcentaje de cada euro vendido queda como margen bruto.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX028",
+    "pregunta": "Si EBITDA es 84.000 € y la amortización es 10.000 €, el EBIT es:",
+    "opciones": ["74.000 €", "84.000 €", "94.000 €", "100.000 €"],
+    "correcta": 0,
+    "explicacion": "EBIT = EBITDA - Amortización = 84.000 - 10.000 = 74.000 €.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX029",
+    "pregunta": "Un hito (milestone) en un cronograma tiene una duración de:",
+    "opciones": ["1 día", "0 (no tiene duración)", "Variable según el proyecto", "1 semana mínimo"],
+    "correcta": 1,
+    "explicacion": "Los hitos NO tienen duración. Son eventos significativos que marcan finalización de un conjunto de actividades.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX030",
+    "pregunta": "La amortización es relevante para:",
+    "opciones": [
+      "Saber cuánto pagar en impuestos sobre activos",
+      "Convertir un gasto contable en salida real de caja",
+      "Repartir el coste de una inversión a lo largo de su vida útil",
+      "Calcular el valor de mercado"
+    ],
+    "correcta": 2,
+    "explicacion": "Amortización = forma contable de repartir el coste de una inversión durante su vida útil. La salida real de caja ocurrió al comprar el activo.",
+    "tema": "Inversión y amortización",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX031",
+    "pregunta": "¿Quién aprueba y autoriza el Acta de Constitución del Proyecto?",
+    "opciones": ["El PM", "El equipo", "El patrocinador (sponsor)", "El gerente funcional"],
+    "correcta": 2,
+    "explicacion": "El PM puede crear el Charter, pero el patrocinador (sponsor) lo aprueba y autoriza, dando autoridad al PM para proceder.",
+    "tema": "Integración",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX032",
+    "pregunta": "El coste de FABRICACIÓN incluye:",
+    "opciones": [
+      "Materia Prima Directa + Mano de Obra Directa + Costes Indirectos de Fabricación",
+      "Solo materia prima",
+      "Marketing y administración",
+      "Intereses bancarios"
+    ],
+    "correcta": 0,
+    "explicacion": "Coste de Fabricación = MPD + MOD + CIF. Marketing y administración son costes del PERIODO, no de producción.",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX033",
+    "pregunta": "Las restricciones del PROYECTO según PMBoK 6 incluyen:",
+    "opciones": [
+      "Solo alcance, tiempo y coste",
+      "Alcance, cronograma, coste, calidad, riesgo, recursos y satisfacción del cliente",
+      "Solo alcance y coste",
+      "Solo el cronograma"
+    ],
+    "correcta": 1,
+    "explicacion": "Aunque clásicamente era triple constraint, PMBoK 6 amplía a 7 restricciones: alcance, cronograma, coste, calidad, riesgo, recursos, satisfacción cliente.",
+    "tema": "Marco PMBoK",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX034",
+    "pregunta": "El RESULTADO MÁS VALIOSO de crear una EDT no es el diagrama en sí, sino:",
+    "opciones": [
+      "Tener un PDF bonito",
+      "Aceptación del equipo y comprensión compartida del trabajo",
+      "Generar un cronograma automáticamente",
+      "Calcular el presupuesto"
+    ],
+    "correcta": 1,
+    "explicacion": "El verdadero valor de la EDT es involucrar al equipo en su creación, lo que genera aceptación y comprensión compartida de qué se hará.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX035",
+    "pregunta": "¿Quién determina las prioridades ENTRE proyectos de una organización?",
+    "opciones": ["El PM", "El equipo", "La PMO", "El gerente funcional"],
+    "correcta": 2,
+    "explicacion": "La PMO se encarga de priorizar entre proyectos (visión multi-proyecto). El PM prioriza dentro de su proyecto.",
+    "tema": "PMO",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX036",
+    "pregunta": "El presupuesto INCREMENTAL:",
+    "opciones": [
+      "Parte de cero",
+      "Parte del año anterior y aplica ajustes",
+      "Solo se aplica en startups",
+      "Es lo mismo que base cero"
+    ],
+    "correcta": 1,
+    "explicacion": "Incremental: usa el presupuesto del año anterior como base y aplica ajustes (subidas, bajadas). Riesgo: replicar ineficiencias previas.",
+    "tema": "Tipos de presupuesto",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX037",
+    "pregunta": "Una empresa quiere medir cuántas ventas necesita para no perder dinero. Está buscando:",
+    "opciones": [
+      "ROI",
+      "Punto de equilibrio (break-even)",
+      "TIR",
+      "NPV"
+    ],
+    "correcta": 1,
+    "explicacion": "Punto de equilibrio (break-even) = nivel de ventas para que Ingresos = Costes Totales. Es la cifra mínima para no perder.",
+    "tema": "Punto de equilibrio",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX038",
+    "pregunta": "La estimación de TRES VALORES (PERT) usa la fórmula:",
+    "opciones": [
+      "(O + P) / 2",
+      "(O + M + P) / 3",
+      "(O + 4M + P) / 6",
+      "M solamente"
+    ],
+    "correcta": 2,
+    "explicacion": "PERT (distribución Beta): t = (Optimista + 4 × Probable + Pesimista) / 6. Da más peso al más probable.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX039",
+    "pregunta": "Una empresa con ventas de 1M €, costes variables de 600K € y costes fijos de 300K € tiene un EBITDA de:",
+    "opciones": ["100K €", "300K €", "400K €", "700K €"],
+    "correcta": 0,
+    "explicacion": "Margen Bruto = 1M - 600K = 400K. EBITDA = 400K - 300K = 100K €.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX040",
+    "pregunta": "La NIVELACIÓN de recursos suele:",
+    "opciones": [
+      "Acortar el cronograma",
+      "Prolongar el cronograma para mantener uso constante de recursos",
+      "Reducir el coste",
+      "Aumentar el riesgo"
+    ],
+    "correcta": 1,
+    "explicacion": "La nivelación equilibra el uso de recursos (evita picos), lo que típicamente prolonga el cronograma. Es lo contrario al crashing/fast-tracking.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX041",
+    "pregunta": "El plan que incluye TODOS los planes subsidiarios (alcance, cronograma, costes, riesgos, etc.) es:",
+    "opciones": [
+      "Acta de Constitución",
+      "Plan para la Dirección del Proyecto",
+      "EDT",
+      "Diccionario de la EDT"
+    ],
+    "correcta": 1,
+    "explicacion": "El Plan para la Dirección del Proyecto (Project Management Plan) integra TODOS los planes subsidiarios. No es solo un Gantt.",
+    "tema": "Integración",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX042",
+    "pregunta": "Una EDT (WBS) descompone el trabajo hasta:",
+    "opciones": [
+      "Una sola persona pueda hacerlo en menos de 1 día",
+      "Que tenga conclusión significativa, se pueda estimar y subdividir lógicamente",
+      "Solo 3 niveles",
+      "Coincida con el número de empleados"
+    ],
+    "correcta": 1,
+    "explicacion": "Se descompone hasta que el paquete sea estimable, tenga conclusión significativa y no se pueda subdividir lógicamente más. NO hasta una persona (puede involucrar varias).",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX043",
+    "pregunta": "Si un proyecto tiene VARIAS rutas críticas, esto:",
+    "opciones": [
+      "Reduce el riesgo",
+      "Es indiferente",
+      "Incrementa el riesgo (más actividades sin holgura = más probabilidad de retraso)",
+      "Acorta el proyecto"
+    ],
+    "correcta": 2,
+    "explicacion": "Cada ruta crítica adicional es una secuencia sin holgura que puede retrasar el proyecto. Más rutas críticas = más riesgo de retraso.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX044",
+    "pregunta": "El método PARAMÉTRICO de estimación usa:",
+    "opciones": [
+      "Datos históricos y tasas de productividad (€/hora, m²/día)",
+      "Opinión experta sin datos",
+      "Tres valores (O, M, P)",
+      "Comparación con un proyecto similar completo"
+    ],
+    "correcta": 0,
+    "explicacion": "Paramétrica: usa datos históricos × tasas (ej: 20 €/m² × 100 m² = 2.000 €). Es más precisa que la análoga (que compara proyectos completos).",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX045",
+    "pregunta": "Un Project Manager nuevo descubre que no tiene autoridad sobre los recursos del proyecto. Probablemente está en una organización:",
+    "opciones": [
+      "Funcional o matricial débil",
+      "Proyectizada",
+      "Matricial fuerte",
+      "Externa"
+    ],
+    "correcta": 0,
+    "explicacion": "En funcional y matricial débil, el PM tiene poca o nula autoridad sobre recursos (los controla el gerente funcional). En proyectizada/matricial fuerte, el PM tiene autoridad.",
+    "tema": "Estructuras organizacionales",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX046",
+    "pregunta": "La AMORTIZACIÓN LINEAL durante 5 años de un activo de 100.000 € da:",
+    "opciones": [
+      "100.000 € el año 1 y nada después",
+      "20.000 € cada año durante 5 años",
+      "Cantidades decrecientes (40K, 30K, 20K, 7K, 3K)",
+      "Cantidades crecientes"
+    ],
+    "correcta": 1,
+    "explicacion": "Lineal = misma cantidad cada año = 100.000 / 5 = 20.000 €. Acelerada sería decreciente; doble decreciente es un tipo de acelerada.",
+    "tema": "Inversión y amortización",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX047",
+    "pregunta": "Un cliente con cobro a 90 días provoca:",
+    "opciones": [
+      "Más beneficio contable",
+      "Aumento de la NOF (necesidad operativa de fondos) y posibles tensiones de caja",
+      "Menos impuestos",
+      "Más rentabilidad"
+    ],
+    "correcta": 1,
+    "explicacion": "Cobrar tarde = más dinero en deudores = más NOF. Hay que financiarlo con caja propia o externa. Puede causar tensiones de tesorería.",
+    "tema": "Caja y tesorería",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX048",
+    "pregunta": "Si un PM detecta que el cliente NO HA ACEPTADO ALGUNOS ENTREGABLES porque no cumplen requisitos, ¿qué proceso falló?",
+    "opciones": [
+      "Definir el Alcance",
+      "Validar el Alcance",
+      "Crear la EDT",
+      "Identificar Stakeholders"
+    ],
+    "correcta": 1,
+    "explicacion": "Validar el Alcance se ocupa de la aceptación FORMAL del cliente. Si no se hizo bien (intermedio, fase a fase), el cliente puede rechazar al final.",
+    "tema": "Alcance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX049",
+    "pregunta": "Un BCR > 1 indica:",
+    "opciones": [
+      "No rentable",
+      "Rentable (los beneficios superan los costes)",
+      "Break-even",
+      "Necesita más inversión"
+    ],
+    "correcta": 1,
+    "explicacion": "BCR > 1: beneficios > costes (rentable). BCR = 1: break-even. BCR < 1: no rentable.",
+    "tema": "Selección de proyectos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX050",
+    "pregunta": "Los procesos de dirección de proyectos son ITERATIVOS porque:",
+    "opciones": [
+      "Solo se hacen una vez",
+      "Cuanta más información hay disponible, más detallado y refinado se vuelve el plan",
+      "El PMBoK es complicado",
+      "Hay que repetirlos cada semana"
+    ],
+    "correcta": 1,
+    "explicacion": "Conforme avanza el ciclo de vida del proyecto, hay más información disponible. Los procesos se iteran/refinan progresivamente para incorporar el nuevo conocimiento.",
+    "tema": "Grupos de procesos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX051",
+    "pregunta": "El análisis costo-beneficio se realiza:",
+    "opciones": [
+      "En el cierre del proyecto",
+      "En la ejecución",
+      "Antes del proyecto (selección/iniciación) para decidir si emprenderlo",
+      "Solo en proyectos de más de 1M €"
+    ],
+    "correcta": 2,
+    "explicacion": "El análisis costo-beneficio se hace ANTES del proyecto (en la selección) para justificar su realización. Si se hiciera en cierre, ya sería tarde.",
+    "tema": "Selección de proyectos",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX052",
+    "pregunta": "El plan que define cómo se gestionarán CAMBIOS al cronograma se llama:",
+    "opciones": [
+      "Acta de Constitución",
+      "Plan de Gestión del Cronograma",
+      "Diagrama de Gantt",
+      "EDT"
+    ],
+    "correcta": 1,
+    "explicacion": "El Plan de Gestión del Cronograma contiene cómo se va a planificar, ejecutar y CONTROLAR (incluyendo cambios) el cronograma.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX053",
+    "pregunta": "¿Cuál de estos costes se reconoce INMEDIATAMENTE en la cuenta de resultados (no se activa en inventario)?",
+    "opciones": [
+      "Materia prima directa",
+      "Mano de obra directa",
+      "Marketing",
+      "Costes indirectos de fabricación"
+    ],
+    "correcta": 2,
+    "explicacion": "Marketing es coste del PERIODO: va a P&L del ejercicio en que se incurre. Los costes de producción (MPD, MOD, CIF) se activan en inventario.",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX054",
+    "pregunta": "El nivel más bajo de la EDT (WBS) se llama:",
+    "opciones": ["Tarea", "Actividad", "Paquete de trabajo (Work Package)", "Hito"],
+    "correcta": 2,
+    "explicacion": "El nivel más bajo de la EDT es el PAQUETE DE TRABAJO (work package). Más abajo, en la lista de actividades, se descompone aún más.",
+    "tema": "Alcance",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX055",
+    "pregunta": "Si los costes fijos son 15.000 €, precio 80 € y coste variable unitario 30 €, ¿cuál es el punto de equilibrio?",
+    "opciones": ["188 uds", "300 uds", "500 uds", "750 uds"],
+    "correcta": 1,
+    "explicacion": "Q* = 15.000 / (80 - 30) = 15.000 / 50 = 300 unidades.",
+    "tema": "Punto de equilibrio",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX056",
+    "pregunta": "El PM aplica el control INTEGRADO de cambios. Esto evalúa el impacto del cambio sobre:",
+    "opciones": [
+      "Solo el cronograma",
+      "Solo el coste",
+      "TODAS las restricciones (alcance, cronograma, coste, calidad, riesgo, recursos, satisfacción cliente)",
+      "Solo el alcance"
+    ],
+    "correcta": 2,
+    "explicacion": "Control INTEGRADO = analizar impacto sobre TODAS las restricciones del proyecto. Por eso es 'integrado' (no por área aislada).",
+    "tema": "Integración",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX057",
+    "pregunta": "Una HEURÍSTICA es:",
+    "opciones": [
+      "Una metodología agile",
+      "Una regla generalmente aceptada (rule of thumb)",
+      "Un método de planificación",
+      "Una técnica de control"
+    ],
+    "correcta": 1,
+    "explicacion": "Heurística = regla generalmente aceptada. Ejemplos: 100 €/línea código, 20 €/m² pintura, 4 contratos/comercial/año.",
+    "tema": "Cronograma",
+    "dificultad": "facil"
+  },
+  {
+    "id": "MX058",
+    "pregunta": "Si el patrocinador y la gerencia te empujan a empezar SIN un Acta de Constitución firmada, ¿qué hacer?",
+    "opciones": [
+      "Empezar a trabajar de inmediato",
+      "Mostrar al director el impacto de proceder sin Charter aprobado",
+      "Crear un control integrado de cambios",
+      "Trabajar solo en actividades de la ruta crítica"
+    ],
+    "correcta": 1,
+    "explicacion": "Hay que mostrar el IMPACTO de proceder sin Charter aprobado (riesgos, falta de autoridad formal). Es la opción más proactiva.",
+    "tema": "Integración",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "MX059",
+    "pregunta": "El coste TOTAL del personal incluye:",
+    "opciones": [
+      "Solo el salario bruto",
+      "Salario bruto + Seguridad Social a cargo de empresa + variables/bonus",
+      "Solo el sueldo neto",
+      "Solo el IRPF"
+    ],
+    "correcta": 1,
+    "explicacion": "Coste empresa total = Salario bruto + Cargas sociales (~30% en España) + Bonus + Otros. El salario bruto NO es el coste total.",
+    "tema": "Personal",
+    "dificultad": "medio"
+  },
+  {
+    "id": "MX060",
+    "pregunta": "Si un proyecto incluye dependencias OBLIGATORIAS (mandatory):",
+    "opciones": [
+      "Vienen del exterior de la organización",
+      "Son por preferencia del equipo",
+      "Son forzadas por naturaleza lógica o física del trabajo (ej: no puedes pintar antes de pavimentar)",
+      "Son opcionales"
+    ],
+    "correcta": 2,
+    "explicacion": "Obligatoria = forzada (no puedes empezar la siguiente sin terminar la anterior). Discrecional = por preferencia/buenas prácticas.",
+    "tema": "Cronograma",
+    "dificultad": "medio"
+  }
+]

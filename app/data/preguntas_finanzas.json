@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "FN001",
+    "pregunta": "¿Cuál es la diferencia FUNDAMENTAL entre presupuesto y contabilidad?",
+    "opciones": [
+      "El presupuesto es obligatorio legalmente; la contabilidad no",
+      "El presupuesto mira al futuro (anticipa); la contabilidad mira al pasado (registra)",
+      "El presupuesto solo lo usan empresas grandes",
+      "Son lo mismo, solo cambia el nombre"
+    ],
+    "correcta": 1,
+    "explicacion": "El presupuesto es PROSPECTIVO (anticipa el futuro para tomar decisiones). La contabilidad es RETROSPECTIVA (registra lo que ya ocurrió). Son herramientas complementarias.",
+    "tema": "Presupuesto",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN002",
+    "pregunta": "Un presupuesto debe entenderse como:",
+    "opciones": [
+      "Una promesa de resultados",
+      "Una hipótesis que se contrasta con la realidad y se ajusta",
+      "Un documento legal vinculante",
+      "Una proyección de ventas únicamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El presupuesto es una HIPÓTESIS, tu mejor estimación actual. No es una promesa: se contrasta con la realidad y se ajusta cuando es necesario.",
+    "tema": "Presupuesto",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN003",
+    "pregunta": "¿Cuál NO es una razón para construir un presupuesto?",
+    "opciones": [
+      "Detectar problemas de liquidez antes de que sean crisis",
+      "Evaluar si el modelo de negocio es viable",
+      "Cumplir un requisito fiscal obligatorio anual",
+      "Tomar decisiones (contratación, inversión) con seguridad"
+    ],
+    "correcta": 2,
+    "explicacion": "Los presupuestos son herramientas de gestión, no un requisito fiscal. Sirven para planificar, anticipar y decidir.",
+    "tema": "Presupuesto",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN004",
+    "pregunta": "Los tres pilares de cualquier presupuesto empresarial son:",
+    "opciones": [
+      "IVA, IRPF, Seguridad Social",
+      "Ingresos, Costes y Beneficio",
+      "Activo, Pasivo y Patrimonio Neto",
+      "Ventas, Compras y Personal"
+    ],
+    "correcta": 1,
+    "explicacion": "Todo presupuesto se construye sobre 3 conceptos: Ingresos (entradas), Costes (salidas/consumos) y Beneficio (resultado).",
+    "tema": "Presupuesto",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN005",
+    "pregunta": "La fórmula básica de ingresos en un presupuesto es:",
+    "opciones": [
+      "Coste fijo + margen",
+      "Nº de clientes × Precio × Frecuencia de compra",
+      "Beneficio + Impuestos",
+      "Cantidad × Coste variable"
+    ],
+    "correcta": 1,
+    "explicacion": "Ingresos = Nº clientes × Precio × Frecuencia. Esta es la fórmula base que se ajusta según el modelo de negocio (SaaS, producto, servicio).",
+    "tema": "Ingresos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN006",
+    "pregunta": "¿Qué representa el SOM en el análisis de mercado TAM/SAM/SOM?",
+    "opciones": [
+      "El mercado total teórico mundial",
+      "El mercado al que puedes llegar con tu producto e idioma",
+      "La parte del mercado que realmente puedes capturar en los próximos años",
+      "El segmento más rentable del mercado"
+    ],
+    "correcta": 2,
+    "explicacion": "SOM (Serviceable Obtainable Market) = lo que realmente puedes capturar. TAM = total teórico. SAM = al que puedes acceder. Para presupuestar, lo que importa es el SOM.",
+    "tema": "Modelo de ventas",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN007",
+    "pregunta": "¿Cuál de estas alternativas describe MEJOR el TAM (Total Addressable Market)?",
+    "opciones": [
+      "El mercado real que puedes atender",
+      "Los clientes que ya compran tu producto",
+      "El mercado total teórico, si capturases el 100%",
+      "El nicho específico donde compites"
+    ],
+    "correcta": 2,
+    "explicacion": "TAM es el techo absoluto: lo que se vendería si capturases el 100% del mercado. Impresiona pero no es lo que se presupuesta.",
+    "tema": "Modelo de ventas",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN008",
+    "pregunta": "Un cliente firma una licencia anual de 30.000 € en abril. ¿Cuánto se factura ese año si la licencia es proporcional por meses activos?",
+    "opciones": [
+      "30.000 € (entero, porque es anual)",
+      "22.500 € (9 meses)",
+      "15.000 € (la mitad)",
+      "10.000 € (5 meses)"
+    ],
+    "correcta": 1,
+    "explicacion": "De abril a diciembre son 9 meses. 30.000 € × (9/12) = 22.500 €. Es un error muy común poner toda la cifra anual al firmar.",
+    "tema": "Modelo de ventas",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN009",
+    "pregunta": "¿Cuál es un COSTE FIJO?",
+    "opciones": [
+      "Materias primas para producción",
+      "Comisiones de ventas",
+      "Alquiler de oficinas",
+      "Embalajes y logística"
+    ],
+    "correcta": 2,
+    "explicacion": "El alquiler se paga independientemente de cuánto vendas. Es coste fijo. Materias primas, comisiones y embalajes varían con el volumen → variables.",
+    "tema": "Tipos de costes",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN010",
+    "pregunta": "¿Cuál es un COSTE VARIABLE?",
+    "opciones": [
+      "Sueldo del director general",
+      "Materias primas para producción",
+      "Amortización de equipos",
+      "Seguros anuales"
+    ],
+    "correcta": 1,
+    "explicacion": "Las materias primas aumentan/disminuyen con el volumen de producción → variable. Las otras opciones son fijas.",
+    "tema": "Tipos de costes",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN011",
+    "pregunta": "Las comisiones de ventas son:",
+    "opciones": [
+      "Costes fijos siempre",
+      "Costes variables (dependen del volumen vendido)",
+      "Costes hundidos",
+      "Gastos del periodo no relacionados con la actividad"
+    ],
+    "correcta": 1,
+    "explicacion": "Las comisiones se pagan en función de las ventas → si vendes más, pagas más. Son costes VARIABLES (trampa típica: muchos las confunden con fijos por ir asociadas al personal).",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN012",
+    "pregunta": "¿Cuál de las siguientes definiciones de COSTE es correcta?",
+    "opciones": [
+      "Un desembolso monetario realizado por la empresa",
+      "El valor económico de los recursos consumidos para generar ingresos o valor",
+      "Un consumo sin contrapartida de valor",
+      "El precio pagado por una mercancía"
+    ],
+    "correcta": 1,
+    "explicacion": "Coste = valor económico de recursos CONSUMIDOS para generar ingresos. El desembolso es un GASTO. El consumo sin valor es una PÉRDIDA.",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN013",
+    "pregunta": "La principal diferencia entre COSTE y GASTO es:",
+    "opciones": [
+      "Son sinónimos",
+      "El coste es interno; el gasto es externo",
+      "El coste está vinculado al consumo para generar ingresos; el gasto es un desembolso monetario",
+      "El gasto solo aplica a personas; el coste solo aplica a empresas"
+    ],
+    "correcta": 2,
+    "explicacion": "Coste = consumo de recursos para generar valor (productivo). Gasto = desembolso monetario. No siempre coinciden.",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN014",
+    "pregunta": "Un COSTE INDIRECTO es:",
+    "opciones": [
+      "Materia prima usada en el producto",
+      "Coste del departamento de administración",
+      "Mano de obra directa en producción",
+      "Horas trabajadas en un proyecto específico"
+    ],
+    "correcta": 1,
+    "explicacion": "El coste de administración no puede asignarse directamente a un producto sin criterio de reparto → indirecto. Los otros son directos (trazables al objeto de coste).",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN015",
+    "pregunta": "El Margen de Contribución unitario se calcula como:",
+    "opciones": [
+      "Precio venta − Coste fijo unitario",
+      "Precio venta − Coste variable unitario",
+      "Ingresos − Costes totales",
+      "Precio venta − Beneficio"
+    ],
+    "correcta": 1,
+    "explicacion": "MC = Precio venta − Coste Variable unitario. Indica cuánto aporta cada unidad para cubrir costes fijos y generar beneficio.",
+    "tema": "Margen de contribución",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN016",
+    "pregunta": "Costes fijos: 10.000 €. Precio venta unitario: 50 €. Coste variable unitario: 30 €. ¿Cuál es el punto de equilibrio en unidades?",
+    "opciones": ["200 uds", "250 uds", "500 uds", "1.000 uds"],
+    "correcta": 2,
+    "explicacion": "Q* = CF / (P - CVu) = 10.000 / (50 - 30) = 10.000 / 20 = 500 unidades.",
+    "tema": "Punto de equilibrio",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN017",
+    "pregunta": "Costes fijos: 200.000 €. Margen de contribución: 40%. ¿Cuál es el punto de equilibrio en euros?",
+    "opciones": ["80.000 €", "200.000 €", "400.000 €", "500.000 €"],
+    "correcta": 3,
+    "explicacion": "Punto equilibrio (€) = CF / Margen contribución % = 200.000 / 0,40 = 500.000 €.",
+    "tema": "Punto de equilibrio",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN018",
+    "pregunta": "Si los costes fijos AUMENTAN y todo lo demás permanece igual, el punto de equilibrio:",
+    "opciones": [
+      "Disminuye",
+      "Aumenta (hay que vender más para no perder)",
+      "No cambia",
+      "Depende del IVA"
+    ],
+    "correcta": 1,
+    "explicacion": "Si suben los costes fijos, necesitas vender más para cubrirlos → sube el punto de equilibrio. Es la fórmula CF/MC: si sube CF, sube Q*.",
+    "tema": "Punto de equilibrio",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN019",
+    "pregunta": "¿Cuál es el orden CORRECTO de los niveles de resultado en la cuenta de resultados?",
+    "opciones": [
+      "Ventas → EBITDA → Margen Bruto → EBIT → Beneficio neto",
+      "Ventas → Margen Bruto → EBITDA → EBIT → Beneficio neto",
+      "Ventas → EBIT → EBITDA → Margen Bruto → Beneficio neto",
+      "Ventas → Beneficio neto → EBIT → EBITDA → Margen Bruto"
+    ],
+    "correcta": 1,
+    "explicacion": "Ventas → restas CV = Margen Bruto → restas CF = EBITDA → restas amortizaciones = EBIT → restas intereses e impuestos = Beneficio neto.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN020",
+    "pregunta": "EBITDA significa:",
+    "opciones": [
+      "Earnings Before Interest, Taxes, Depreciation & Amortization",
+      "Earnings Before Income Tax Deduction Available",
+      "Estimated Budget Income Tax Distribution Account",
+      "Expenses Budget Income Tax Depreciation Amortization"
+    ],
+    "correcta": 0,
+    "explicacion": "EBITDA = Beneficio antes de Intereses, Impuestos, Depreciación y Amortización. Mide la capacidad operativa de generar caja.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN021",
+    "pregunta": "Si Margen Bruto = 300.000 € y Costes Fijos = 200.000 €, el EBITDA es:",
+    "opciones": ["100.000 €", "200.000 €", "300.000 €", "500.000 €"],
+    "correcta": 0,
+    "explicacion": "EBITDA = Margen Bruto - Costes Fijos = 300.000 - 200.000 = 100.000 €.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN022",
+    "pregunta": "Si EBITDA = 100.000 € y Amortizaciones = 30.000 €, el EBIT es:",
+    "opciones": ["70.000 €", "100.000 €", "130.000 €", "30.000 €"],
+    "correcta": 0,
+    "explicacion": "EBIT = EBITDA - Amortizaciones = 100.000 - 30.000 = 70.000 €. EBIT es el resultado operativo.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN023",
+    "pregunta": "Empresa con: Ventas 500.000 €, CV 220.000 €, CF 180.000 €, Amortización 20.000 €, Intereses 10.000 €, Impuesto 25%. ¿Cuál es el Beneficio neto?",
+    "opciones": ["35.000 €", "52.500 €", "70.000 €", "85.000 €"],
+    "correcta": 1,
+    "explicacion": "MB=500-220=280; EBITDA=280-180=100; EBIT=100-20=80; BAI=80-10=70; Impuesto=17,5; Bº neto=52,5 mil €.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "FN024",
+    "pregunta": "¿Por qué el EBITDA es muy usado para COMPARAR empresas?",
+    "opciones": [
+      "Es el beneficio final neto",
+      "Excluye decisiones de financiación, amortización e impuestos",
+      "Es el resultado más alto en la cuenta de resultados",
+      "Solo se calcula en empresas grandes"
+    ],
+    "correcta": 1,
+    "explicacion": "EBITDA neutraliza efectos de financiación, fiscalidad y amortizaciones. Permite comparar capacidad operativa de generar caja entre empresas con estructuras distintas.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN025",
+    "pregunta": "Una empresa con EBITDA positivo y Beneficio neto negativo significa que:",
+    "opciones": [
+      "El cálculo está mal hecho",
+      "Es operativamente rentable pero los intereses, amortizaciones o impuestos la hacen perder",
+      "No tiene caja",
+      "Tiene impagos de clientes"
+    ],
+    "correcta": 1,
+    "explicacion": "EBITDA positivo = la operación funciona. Bº neto negativo = la financiación (intereses), las amortizaciones o los impuestos están haciendo perder a la empresa.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN026",
+    "pregunta": "Rentabilidad y liquidez NO son lo mismo porque:",
+    "opciones": [
+      "La rentabilidad es del año; la liquidez del mes",
+      "Una empresa puede ser rentable pero quebrar si no cobra a tiempo y debe pagar antes",
+      "Solo las empresas grandes pueden ser rentables y líquidas a la vez",
+      "Son sinónimos en finanzas"
+    ],
+    "correcta": 1,
+    "explicacion": "Una empresa puede facturar mucho (rentable) pero quebrar si los clientes pagan a 90 días y los proveedores en 30. Beneficio ≠ Caja.",
+    "tema": "Caja y tesorería",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN027",
+    "pregunta": "NOF (Necesidades Operativas de Fondos) se calcula como:",
+    "opciones": [
+      "Activos - Pasivos",
+      "Clientes + Stock - Proveedores",
+      "Ventas - Costes",
+      "Patrimonio neto + Deudas"
+    ],
+    "correcta": 1,
+    "explicacion": "NOF = Clientes (lo que te deben) + Stock (inmovilizado) - Proveedores (lo que debes a corto plazo). Es el dinero que la operativa diaria inmoviliza.",
+    "tema": "Caja y tesorería",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN028",
+    "pregunta": "Clientes pendientes: 120.000 €. Stock: 80.000 €. Proveedores pendientes: 70.000 €. ¿Cuál es la NOF?",
+    "opciones": ["130.000 €", "270.000 €", "30.000 €", "200.000 €"],
+    "correcta": 0,
+    "explicacion": "NOF = 120 + 80 - 70 = 130.000 €. Ese dinero está inmovilizado y hay que financiarlo.",
+    "tema": "Caja y tesorería",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN029",
+    "pregunta": "¿Qué afirmación sobre la AMORTIZACIÓN es correcta?",
+    "opciones": [
+      "Implica una salida real de caja cada año",
+      "Es un gasto contable que refleja el consumo del activo en el tiempo",
+      "Se aplica solo a inmuebles",
+      "Es opcional según el tipo de empresa"
+    ],
+    "correcta": 1,
+    "explicacion": "La amortización es un gasto CONTABLE (afecta a P&L) pero NO implica salida de caja. La caja salió cuando se compró el activo. Por eso EBITDA es popular: la excluye.",
+    "tema": "Inversión y amortización",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN030",
+    "pregunta": "Compras una máquina por 50.000 € con vida útil 5 años. ¿Cuál es la amortización anual lineal?",
+    "opciones": ["5.000 €", "10.000 €", "25.000 €", "50.000 €"],
+    "correcta": 1,
+    "explicacion": "Amortización lineal anual = Inversión / Vida útil = 50.000 / 5 = 10.000 € por año.",
+    "tema": "Inversión y amortización",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN031",
+    "pregunta": "La diferencia entre CAPEX y OPEX es:",
+    "opciones": [
+      "CAPEX es para personal, OPEX para materiales",
+      "CAPEX es inversión que genera valor varios años (se amortiza); OPEX es gasto operativo del periodo",
+      "CAPEX es coste fijo, OPEX es variable",
+      "Son sinónimos"
+    ],
+    "correcta": 1,
+    "explicacion": "CAPEX (Capital Expenditure) = inversión en activos duraderos (se amortiza). OPEX (Operating Expenditure) = gastos del día a día (al P&L directo).",
+    "tema": "Inversión y amortización",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN032",
+    "pregunta": "Los COSTES HUNDIDOS (sunk costs) son:",
+    "opciones": [
+      "Costes que se acumulan en el inventario",
+      "Costes ya incurridos e irrecuperables que NO deben influir en decisiones futuras",
+      "Costes asociados a la depreciación",
+      "Pérdidas por robo o incendio"
+    ],
+    "correcta": 1,
+    "explicacion": "Coste hundido = ya gastado, irrecuperable. ERROR clásico: incluirlos en decisiones futuras. Lo relevante es el futuro, no lo ya gastado.",
+    "tema": "Costes para decisiones",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN033",
+    "pregunta": "Has invertido 500.000 € en un producto que está fracasando. ¿Influyen estos 500.000 € en la decisión de continuar invirtiendo?",
+    "opciones": [
+      "Sí, porque ya hemos invertido mucho",
+      "No, son coste hundido. La decisión depende solo de costes y beneficios futuros",
+      "Sí, hay que recuperarlos",
+      "Depende del consejo de administración"
+    ],
+    "correcta": 1,
+    "explicacion": "Los 500.000 € son coste HUNDIDO. No se recuperan haga lo que se haga. La decisión solo debe basarse en costes y beneficios futuros.",
+    "tema": "Costes para decisiones",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN034",
+    "pregunta": "El COSTE DE OPORTUNIDAD es:",
+    "opciones": [
+      "Un coste contable que aparece en la cuenta de resultados",
+      "El valor del mejor uso alternativo que se sacrifica al tomar una decisión",
+      "El coste de fabricar una unidad adicional",
+      "El coste de la materia prima"
+    ],
+    "correcta": 1,
+    "explicacion": "Coste de oportunidad = lo que dejas de ganar al elegir una opción frente a otra. NO aparece en contabilidad, pero es decisional y muy real.",
+    "tema": "Costes para decisiones",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN035",
+    "pregunta": "Usas un local de tu propiedad como almacén. ¿Cuál es el coste de oportunidad?",
+    "opciones": [
+      "El precio de compra del local",
+      "El alquiler que dejas de cobrar si no lo alquilas a terceros",
+      "El IBI anual",
+      "Cero, porque es tuyo"
+    ],
+    "correcta": 1,
+    "explicacion": "Al no alquilar, sacrificas el alquiler potencial. Ese alquiler dejado de percibir es el coste de oportunidad.",
+    "tema": "Costes para decisiones",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN036",
+    "pregunta": "El COSTE MARGINAL es:",
+    "opciones": [
+      "El coste promedio por unidad",
+      "El coste de producir una unidad adicional",
+      "El coste fijo dividido por unidades",
+      "El coste de la materia prima principal"
+    ],
+    "correcta": 1,
+    "explicacion": "Coste marginal = coste de UNA UNIDAD ADICIONAL. Útil para decidir pedidos especiales: aceptarlos si precio > coste marginal.",
+    "tema": "Costes para decisiones",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN037",
+    "pregunta": "Te ofrecen un pedido especial: Precio = 55 €. Coste variable unitario = 50 €. Coste fijo unitario actual = 15 €. ¿Aceptas?",
+    "opciones": [
+      "No, porque 55 < 65 (CV+CF)",
+      "Sí, porque el margen de contribución es positivo (5 € por unidad)",
+      "No, porque no cubre los costes fijos",
+      "Sí, porque el cliente lo pide"
+    ],
+    "correcta": 1,
+    "explicacion": "Si el precio (55 €) > coste variable (50 €), cada unidad aporta 5 € de margen para cubrir costes fijos (que ya están comprometidos). Aceptas siempre que tengas capacidad.",
+    "tema": "Costes para decisiones",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "FN038",
+    "pregunta": "El método FULL COSTING:",
+    "opciones": [
+      "Asigna SOLO costes variables a los productos",
+      "Asigna TODOS los costes (fijos y variables) a los productos",
+      "Solo se usa en startups",
+      "Es lo mismo que el Direct Costing"
+    ],
+    "correcta": 1,
+    "explicacion": "Full Costing imputa todos los costes (fijos + variables) a los productos. Es obligatorio para contabilidad financiera externa.",
+    "tema": "Métodos de asignación de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN039",
+    "pregunta": "El método ABC (Activity-Based Costing) parte de la premisa de que:",
+    "opciones": [
+      "Los productos consumen costes directamente",
+      "Los productos consumen ACTIVIDADES, y las actividades consumen recursos",
+      "Solo los costes fijos son relevantes",
+      "Las máquinas determinan el coste"
+    ],
+    "correcta": 1,
+    "explicacion": "ABC: productos → actividades → recursos. Usa COST DRIVERS (inductores) para asignar costes según el uso real de actividades.",
+    "tema": "Métodos de asignación de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN040",
+    "pregunta": "Un COST DRIVER en el método ABC podría ser:",
+    "opciones": [
+      "El precio del producto",
+      "El número de pedidos procesados (para asignar coste logístico)",
+      "El margen de contribución",
+      "El IVA"
+    ],
+    "correcta": 1,
+    "explicacion": "Un cost driver es la variable que explica el coste de una actividad. Nº pedidos → coste logística; Km recorridos → mantenimiento flota; Horas soporte → atención cliente.",
+    "tema": "Métodos de asignación de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN041",
+    "pregunta": "El método del MARGEN DE CONTRIBUCIÓN (Direct Costing):",
+    "opciones": [
+      "Asigna costes fijos y variables a productos",
+      "Solo asigna costes variables a productos; los fijos se tratan como costes del periodo",
+      "Es obligatorio para contabilidad externa",
+      "Es el más arbitrario"
+    ],
+    "correcta": 1,
+    "explicacion": "Direct Costing solo imputa costes variables. Los fijos son costes del periodo. Es ideal para decisiones a corto plazo (pedidos especiales, mix de producto).",
+    "tema": "Métodos de asignación de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN042",
+    "pregunta": "¿Qué método es OBLIGATORIO para la contabilidad financiera externa?",
+    "opciones": ["ABC", "Direct Costing", "Full Costing", "Margen de Contribución"],
+    "correcta": 2,
+    "explicacion": "Full Costing es obligatorio por normas contables internacionales para la valoración de inventarios. ABC y Direct Costing son herramientas internas de gestión.",
+    "tema": "Métodos de asignación de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN043",
+    "pregunta": "El coste de fabricación de un producto incluye:",
+    "opciones": [
+      "MPD + MOD + CIF",
+      "MPD + Marketing",
+      "Salarios de administración",
+      "Gastos financieros"
+    ],
+    "correcta": 0,
+    "explicacion": "Coste de fabricación = Materia Prima Directa + Mano de Obra Directa + Costes Indirectos de Fabricación. Marketing y administración son COSTES DEL PERIODO.",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN044",
+    "pregunta": "El COSTE DE CONVERSIÓN se calcula como:",
+    "opciones": [
+      "MPD + MOD",
+      "MOD + CIF",
+      "MPD + CIF",
+      "MPD + MOD + CIF"
+    ],
+    "correcta": 1,
+    "explicacion": "Coste de Conversión = MOD + CIF. NO incluye materia prima. Mide el esfuerzo de transformar la materia prima en producto.",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN045",
+    "pregunta": "Los costes de MARKETING y ADMINISTRACIÓN se clasifican como:",
+    "opciones": [
+      "Costes de producto",
+      "Costes del periodo",
+      "Costes hundidos",
+      "Costes de oportunidad"
+    ],
+    "correcta": 1,
+    "explicacion": "Costes del periodo: van directos a P&L del ejercicio. Costes de producto se activan en inventario y solo van a P&L al vender (como CMV).",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN046",
+    "pregunta": "El presupuesto BASE CERO:",
+    "opciones": [
+      "Parte de cero costes",
+      "Parte del año anterior y se ajusta incrementalmente",
+      "Exige justificar cada gasto desde cero, sin partir del año anterior",
+      "Solo se aplica al primer año de una empresa"
+    ],
+    "correcta": 2,
+    "explicacion": "Base cero exige justificar cada partida como si fuera nueva. El INCREMENTAL parte del año anterior y ajusta.",
+    "tema": "Tipos de presupuesto",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN047",
+    "pregunta": "El error MÁS COMÚN al hacer presupuestos según el material es:",
+    "opciones": [
+      "Calcular mal el IVA",
+      "Optimismo excesivo (sobreestimar ventas, minimizar costes)",
+      "No traducir al inglés",
+      "Usar Excel"
+    ],
+    "correcta": 1,
+    "explicacion": "El optimismo excesivo genera una falsa sensación de seguridad y lleva al colapso financiero. Por eso siempre se hacen 3 escenarios (pesimista/base/optimista).",
+    "tema": "Errores presupuestarios",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN048",
+    "pregunta": "Tres escenarios típicos en un presupuesto sólido son:",
+    "opciones": [
+      "Mensual, trimestral, anual",
+      "Pesimista, Base, Optimista",
+      "Ventas, Costes, Beneficio",
+      "España, Europa, Mundial"
+    ],
+    "correcta": 1,
+    "explicacion": "Los 3 escenarios (Pesimista/Base/Optimista) permiten medir resiliencia, preparar planes alternativos y anticipar necesidades de financiación.",
+    "tema": "Tipos de presupuesto",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN049",
+    "pregunta": "Análisis de SENSIBILIDAD significa:",
+    "opciones": [
+      "Cuestionar la viabilidad emocional del proyecto",
+      "Identificar qué variables afectan más al resultado del presupuesto",
+      "Calcular impuestos",
+      "Comparar con la competencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El análisis de sensibilidad identifica las variables más críticas (ventas, precio, margen, plazos cobro/pago) para ver cuánto afecta cada una al resultado.",
+    "tema": "Análisis financiero",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN050",
+    "pregunta": "El enfoque BOTTOM-UP en presupuestación:",
+    "opciones": [
+      "La dirección fija metas globales y las áreas se adaptan",
+      "Cada área aporta previsiones realistas que se consolidan",
+      "Se basa solo en el año anterior",
+      "Es solo para multinacionales"
+    ],
+    "correcta": 1,
+    "explicacion": "Bottom-up: las áreas (ventas, operaciones, RRHH) aportan sus previsiones desde abajo, y se consolidan. Top-down es lo contrario.",
+    "tema": "Tipos de presupuesto",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN051",
+    "pregunta": "Empresa con: Precio = 80 €, Coste variable = 50 €, Costes fijos totales = 15.000 €. ¿Cuál es el punto de equilibrio en unidades?",
+    "opciones": ["188", "300", "500", "1.000"],
+    "correcta": 2,
+    "explicacion": "Q* = 15.000 / (80 - 50) = 15.000 / 30 = 500 unidades.",
+    "tema": "Punto de equilibrio",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN052",
+    "pregunta": "Producto A: precio 100, CV 40. Producto B: precio 100, CV 60. Costes fijos: 40.000 € (repartidos 20.000 a cada uno, 1.000 uds c/u). ¿Cuál es el beneficio unitario de A en FULL COSTING?",
+    "opciones": ["40 €", "45 €", "60 €", "100 €"],
+    "correcta": 0,
+    "explicacion": "Beneficio A (Full Costing) = 100 - 40 (CV) - 20 (CF unitario) = 40 €.",
+    "tema": "Métodos de asignación de costes",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "FN053",
+    "pregunta": "El margen de contribución del producto X es 50 € y del Y es 30 €. ¿Qué producto priorizar si hay limitación de capacidad?",
+    "opciones": ["X (mayor MC)", "Y", "Da igual", "Necesitas el precio"],
+    "correcta": 0,
+    "explicacion": "Con margen de contribución mayor, X aporta más por unidad a cubrir costes fijos y generar beneficio. Es el preferido para priorizar.",
+    "tema": "Margen de contribución",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN054",
+    "pregunta": "El BENEFICIO BRUTO de una empresa que vende productos físicos se calcula como:",
+    "opciones": [
+      "Ingresos - Costes totales",
+      "Ingresos - CMV (Coste de las Mercaderías Vendidas)",
+      "Ingresos - Impuestos",
+      "EBITDA - Amortización"
+    ],
+    "correcta": 1,
+    "explicacion": "Margen/Beneficio Bruto = Ventas - Coste de las Mercaderías Vendidas (también llamado COGS o Costes Variables ligados al producto).",
+    "tema": "Cuenta de resultados",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN055",
+    "pregunta": "Una empresa factura 100.000 € en enero pero cobra en abril. Mientras tanto debe pagar nóminas. Esto ilustra:",
+    "opciones": [
+      "Un problema de rentabilidad",
+      "Que beneficio no es lo mismo que caja; puede haber tensión de tesorería",
+      "Una pérdida del periodo",
+      "Una falta de presupuesto"
+    ],
+    "correcta": 1,
+    "explicacion": "Aunque la empresa sea rentable (factura 100.000), la falta de cobro a tiempo crea tensión de tesorería. Es el clásico 'rentable pero ilíquido'.",
+    "tema": "Caja y tesorería",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN056",
+    "pregunta": "El presupuesto de CAJA o tesorería refleja:",
+    "opciones": [
+      "Solo ingresos por ventas",
+      "Cobros y pagos esperados en un periodo (cuándo entra y sale dinero realmente)",
+      "Las ventas teóricas anuales",
+      "El beneficio mensual"
+    ],
+    "correcta": 1,
+    "explicacion": "El presupuesto de caja muestra el flujo real de dinero: cobros menos pagos = saldo final. No es lo mismo que el beneficio contable.",
+    "tema": "Caja y tesorería",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN057",
+    "pregunta": "Si tu margen bruto cae del 35% al 30%, ¿qué efecto tendrá?",
+    "opciones": [
+      "Ningún efecto si las ventas se mantienen",
+      "El EBITDA se reducirá aunque las ventas se mantengan igual",
+      "Aumentará el beneficio neto",
+      "Reducirá las amortizaciones"
+    ],
+    "correcta": 1,
+    "explicacion": "Cada euro vendido aporta menos al EBITDA si el margen bruto cae. Si los costes fijos no se reducen, el EBITDA cae proporcionalmente.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN058",
+    "pregunta": "El ROI (Return on Investment) se calcula como:",
+    "opciones": [
+      "Beneficio / Inversión",
+      "Inversión / Beneficio",
+      "Ventas / Costes",
+      "Activos / Pasivos"
+    ],
+    "correcta": 0,
+    "explicacion": "ROI = Beneficio / Inversión necesaria. Mide cuánto se obtiene por cada euro invertido.",
+    "tema": "Análisis financiero",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN059",
+    "pregunta": "¿Cuál es el formato típico de una HISTORIA DE USUARIO?",
+    "opciones": [
+      "Como <rol>, deseo <funcionalidad> a fin de <beneficio>",
+      "Tarea: descripción + estimación",
+      "Si <condición>, entonces <acción>",
+      "Para X, hacer Y"
+    ],
+    "correcta": 0,
+    "explicacion": "Aunque es más típico de gestión de proyectos (Scrum/Agile), también aparece en presupuestos de productos digitales. Formato: Como <rol>, deseo <funcionalidad> a fin de <beneficio>.",
+    "tema": "Modelo de negocio",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN060",
+    "pregunta": "Las TASAS HISTÓRICAS aplicadas a datos del proyecto para estimar costes se conoce como estimación:",
+    "opciones": ["Análoga", "Paramétrica", "Bottom-up", "PERT"],
+    "correcta": 1,
+    "explicacion": "Paramétrica = usar tasas históricas (€/m², €/hora) por la cantidad. Análoga es comparar con un proyecto previo similar.",
+    "tema": "Estimaciones",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN061",
+    "pregunta": "El BENEFICIO NETO se calcula como:",
+    "opciones": [
+      "EBIT - Intereses - Impuestos",
+      "Ventas - Costes",
+      "EBITDA - Amortización",
+      "Margen bruto - Estructura"
+    ],
+    "correcta": 0,
+    "explicacion": "Beneficio neto = EBIT - Intereses (gastos financieros) - Impuestos. Es el resultado final disponible para reservas y dividendos.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN062",
+    "pregunta": "El error de NO TRADUCIR VENTAS EN COBROS puede llevar a:",
+    "opciones": [
+      "Pagar más impuestos",
+      "Sobreestimar la caja disponible y tener problemas de liquidez",
+      "Bajar el margen bruto",
+      "Aumentar las amortizaciones"
+    ],
+    "correcta": 1,
+    "explicacion": "Si presupuestas como si todas las ventas se cobrasen al instante, sobreestimas la caja real. Esto es crítico en B2B con cobros a 60-90 días.",
+    "tema": "Errores presupuestarios",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN063",
+    "pregunta": "Una empresa SaaS con cuota anual de 6.000 €/cliente y 40 clientes previstos genera ventas anuales de:",
+    "opciones": ["6.000 €", "40.000 €", "240.000 €", "6.400.000 €"],
+    "correcta": 2,
+    "explicacion": "40 clientes × 6.000 € = 240.000 € anuales.",
+    "tema": "Ingresos",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN064",
+    "pregunta": "Coste empresa de un empleado de 35.000 € de salario bruto con cargas sociales del 32%:",
+    "opciones": ["35.000 €", "32.000 €", "46.200 €", "67.000 €"],
+    "correcta": 2,
+    "explicacion": "Coste empresa = Salario bruto × (1 + cargas sociales) = 35.000 × 1,32 = 46.200 €. El salario NO es el coste total del empleado.",
+    "tema": "Personal",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN065",
+    "pregunta": "Empresa: Ventas 840.000 €, CV totales 396.000 €, CF totales 360.000 €. ¿Cuál es el EBITDA?",
+    "opciones": ["84.000 €", "120.000 €", "444.000 €", "204.000 €"],
+    "correcta": 0,
+    "explicacion": "Margen bruto = 840.000 - 396.000 = 444.000. EBITDA = 444.000 - 360.000 = 84.000 €.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN066",
+    "pregunta": "Un presupuesto OPERATIVO refleja:",
+    "opciones": [
+      "Únicamente los cobros y pagos",
+      "Las inversiones a largo plazo",
+      "La actividad normal: ventas, costes, personal, estructura, resultado operativo",
+      "El capital social de la empresa"
+    ],
+    "correcta": 2,
+    "explicacion": "El presupuesto operativo refleja la operación normal (ventas-costes-resultado). El financiero refleja cobros/pagos/tesorería/inversiones.",
+    "tema": "Tipos de presupuesto",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN067",
+    "pregunta": "El presupuesto MAESTRO:",
+    "opciones": [
+      "Es solo para directivos",
+      "Integra todos los presupuestos parciales y ofrece visión global de la empresa",
+      "Es el presupuesto del CEO",
+      "Solo aplica a multinacionales"
+    ],
+    "correcta": 1,
+    "explicacion": "El presupuesto maestro es la consolidación: integra el operativo, financiero, inversiones, etc., dando una visión global.",
+    "tema": "Tipos de presupuesto",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN068",
+    "pregunta": "¿Qué incluye el PATRIMONIO NETO en el balance?",
+    "opciones": [
+      "Préstamos bancarios",
+      "Existencias y deudores",
+      "Capital, reservas y resultado del ejercicio",
+      "Tesorería"
+    ],
+    "correcta": 2,
+    "explicacion": "Patrimonio neto = Capital aportado por socios + Reservas + Resultado del ejercicio. Es la financiación propia.",
+    "tema": "Balance",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN069",
+    "pregunta": "El balance siempre cumple:",
+    "opciones": [
+      "Ingresos = Gastos",
+      "Activo = Pasivo + Patrimonio Neto",
+      "Caja = Beneficio",
+      "Coste = Precio"
+    ],
+    "correcta": 1,
+    "explicacion": "La ecuación contable básica: ACTIVO = PASIVO + PATRIMONIO NETO. Lo que la empresa tiene = lo que debe + lo que es de los socios.",
+    "tema": "Balance",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN070",
+    "pregunta": "Cuando una empresa CRECE rápidamente, su NOF tiende a:",
+    "opciones": [
+      "Reducirse",
+      "Mantenerse igual",
+      "Aumentar (más clientes pendientes y más stock necesario)",
+      "Convertirse en negativa"
+    ],
+    "correcta": 2,
+    "explicacion": "Crecer rápido consume caja: más facturación = más clientes pendientes + más stock. La NOF crece y hay que financiarla.",
+    "tema": "Caja y tesorería",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN071",
+    "pregunta": "Una empresa puede TENER BENEFICIOS Y QUEBRAR si:",
+    "opciones": [
+      "Vende muy barato",
+      "No tiene caja para pagar nóminas y proveedores aunque facture",
+      "Tiene muchos productos",
+      "Tiene mucha competencia"
+    ],
+    "correcta": 1,
+    "explicacion": "Beneficio contable ≠ Caja. Si la empresa factura pero cobra tarde, puede quedarse sin caja para pagar obligaciones inmediatas → quiebra técnica.",
+    "tema": "Caja y tesorería",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN072",
+    "pregunta": "Si los IMPUESTOS son del 25% y el resultado antes de impuestos es 70.000 €, ¿cuál es el beneficio neto?",
+    "opciones": ["17.500 €", "52.500 €", "70.000 €", "87.500 €"],
+    "correcta": 1,
+    "explicacion": "Impuesto = 70.000 × 0,25 = 17.500. Beneficio neto = 70.000 - 17.500 = 52.500 €.",
+    "tema": "Cuenta de resultados",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN073",
+    "pregunta": "El método de DOBLE AMORTIZACIÓN DECRECIENTE es un tipo de:",
+    "opciones": [
+      "Amortización lineal",
+      "Amortización acelerada",
+      "Amortización desacelerada",
+      "Coste hundido"
+    ],
+    "correcta": 1,
+    "explicacion": "Doble amortización decreciente = amortización ACELERADA (más al principio, menos al final). La lineal es la misma cantidad cada año.",
+    "tema": "Inversión y amortización",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN074",
+    "pregunta": "El TIPO DE CAMBIO de divisas es un EEF (Enterprise Environmental Factor) que clasificarías como:",
+    "opciones": [
+      "Interno",
+      "Externo",
+      "Coste hundido",
+      "Coste variable"
+    ],
+    "correcta": 1,
+    "explicacion": "El tipo de cambio no lo controla la empresa, es externo. Por eso es un EEF externo (afecta al proyecto/empresa pero no se controla).",
+    "tema": "Modelo de negocio",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN075",
+    "pregunta": "¿Cuál NO es un cobro típico del presupuesto de caja?",
+    "opciones": [
+      "Cobros de clientes",
+      "Subvenciones",
+      "Préstamos recibidos",
+      "Pago a proveedores"
+    ],
+    "correcta": 3,
+    "explicacion": "El pago a proveedores es un PAGO (salida de caja), no un cobro (entrada). Las otras 3 son entradas de caja típicas.",
+    "tema": "Caja y tesorería",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN076",
+    "pregunta": "¿En qué se diferencia la AMORTIZACIÓN del PAGO de la compra de un activo?",
+    "opciones": [
+      "Son lo mismo",
+      "La amortización es un gasto contable repartido en el tiempo; el pago es la salida real de caja al comprar",
+      "El pago es contable y la amortización es real",
+      "La amortización solo se aplica a inmuebles"
+    ],
+    "correcta": 1,
+    "explicacion": "Al comprar: sale la caja entera. Pero el gasto contable se reparte cada año (amortización) según vida útil. Caja ≠ Gasto contable.",
+    "tema": "Inversión y amortización",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN077",
+    "pregunta": "Productos rentables podrían PARECER deficitarios si:",
+    "opciones": [
+      "Se aplica correctamente el método ABC",
+      "Se reparten los costes indirectos de forma arbitraria",
+      "Se calcula el margen de contribución",
+      "Se reduce el precio de venta"
+    ],
+    "correcta": 1,
+    "explicacion": "Un reparto arbitrario de costes indirectos (Full Costing con criterios inadecuados) puede penalizar productos eficientes y subvencionar ineficientes.",
+    "tema": "Métodos de asignación de costes",
+    "dificultad": "dificil"
+  },
+  {
+    "id": "FN078",
+    "pregunta": "Decisión crítica en gestión de costes: las decisiones directivas deben basarse en:",
+    "opciones": [
+      "Costes pasados irrecuperables",
+      "Costes futuros relevantes, NUNCA en costes pasados (hundidos)",
+      "El presupuesto inicial",
+      "Las opiniones del equipo"
+    ],
+    "correcta": 1,
+    "explicacion": "Regla de oro: decidir mirando al FUTURO, no al pasado. Los costes hundidos no se recuperan, no deben influir.",
+    "tema": "Costes para decisiones",
+    "dificultad": "facil"
+  },
+  {
+    "id": "FN079",
+    "pregunta": "Si un coste BENEFICIA A TODA LA ORGANIZACIÓN de forma transversal y es difícil asignar a una unidad, hablamos de:",
+    "opciones": [
+      "Coste directo",
+      "Coste variable",
+      "Overhead (gastos generales)",
+      "Coste de oportunidad"
+    ],
+    "correcta": 2,
+    "explicacion": "Overhead = costes generales corporativos (dirección general, sistemas IT, controlling). Requieren criterios de reparto entre unidades.",
+    "tema": "Tipos de costes",
+    "dificultad": "medio"
+  },
+  {
+    "id": "FN080",
+    "pregunta": "¿Cuál es la diferencia principal entre presupuesto FIJO y FLEXIBLE?",
+    "opciones": [
+      "Fijo es anual, flexible es mensual",
+      "Fijo se hace para un nivel de actividad concreto; flexible se adapta a distintos niveles",
+      "Fijo se hace en papel, flexible en Excel",
+      "Son sinónimos"
+    ],
+    "correcta": 1,
+    "explicacion": "Fijo = un nivel concreto (vendemos 1.000 uds). Flexible = se ajusta según los niveles reales (si vendemos 800 o 1.200, se recalculan automáticamente costes variables).",
+    "tema": "Tipos de presupuesto",
+    "dificultad": "medio"
+  }
+]
